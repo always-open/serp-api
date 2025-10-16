@@ -49,7 +49,7 @@ class SerpApiClient
         /**
          * @var Response|null $response
          */
-        $response = retry($retryCount ?? 0, function () use ($request): PromiseInterface|Response {
+        $response = retry(1, function () use ($request): PromiseInterface|Response {
             return Http::withHeaders($request->getHeaders())
                 ->get($request->getUri())
                 ->throw();
