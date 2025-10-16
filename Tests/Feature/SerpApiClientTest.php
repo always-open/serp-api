@@ -2,8 +2,8 @@
 
 namespace AlwaysOpen\SerpApi\Tests\Feature;
 
-use AlwaysOpen\SerpApi\Tests\BaseTest;
 use AlwaysOpen\SerpApi\SerpApiClient;
+use AlwaysOpen\SerpApi\Tests\BaseTest;
 use Illuminate\Support\Facades\Http;
 
 class SerpApiClientTest extends BaseTest
