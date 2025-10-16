@@ -26,6 +26,7 @@ class SerpApiClientTest extends BaseTest
 
         $this->assertNotEmpty($immersiveProductResponse->product_results);
         $this->assertEquals('Folgers Classic Roast Ground Coffee', $immersiveProductResponse->product_results->title);
+        $this->assertIsNumeric($immersiveProductResponse->search_metadata->created_at->microsecond);
     }
 
     /**
