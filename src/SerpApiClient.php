@@ -106,7 +106,7 @@ class SerpApiClient
         bool $asDto = true,
     ) {
 
-        $response = $this->makeGetRequest(responseType: $responseType, baseUrl: $this->baseArchiveUrl . "/$searchId");
+        $response = $this->makeGetRequest(responseType: $responseType, baseUrl: $this->baseArchiveUrl."/$searchId");
 
         if ($responseType === self::JSON_TYPE) {
             if ($asDto) {
