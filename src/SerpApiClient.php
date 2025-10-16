@@ -13,9 +13,11 @@ use Throwable;
 class SerpApiClient
 {
     protected string $apiKey;
+
     protected string $baseUrl = 'https://serpapi.com/search';
 
     public const string JSON_TYPE = 'json';
+
     public const string HTML_TYPE = 'html';
 
     public function __construct(
@@ -41,7 +43,7 @@ class SerpApiClient
 
         $request = new Request(
             method: 'get',
-            uri: $this->baseUrl . ".$responseType" . ($paramString ? '?' . $paramString : ''),
+            uri: $this->baseUrl.".$responseType".($paramString ? '?'.$paramString : ''),
         );
 
         /**
@@ -76,7 +78,7 @@ class SerpApiClient
 
         $response = $this->makeGetRequest($params, $responseType);
 
-        if (self::JSON_TYPE === $responseType) {
+        if ($responseType === self::JSON_TYPE) {
             if ($asDto) {
                 return ImmersiveProductResponse::from($response->json());
             }

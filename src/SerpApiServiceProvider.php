@@ -18,7 +18,7 @@ class SerpApiServiceProvider extends ServiceProvider
     public function boot()
     {
         $this->publishes([
-            __DIR__ . '/../config/serp-api.php' => config_path('serp-api.php'),
+            __DIR__.'/../config/serp-api.php' => config_path('serp-api.php'),
             __DIR__.'/../config/data.php' => config_path('data.php'),
         ], 'config');
     }

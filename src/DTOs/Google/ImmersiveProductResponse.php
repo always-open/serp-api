@@ -2,7 +2,6 @@
 
 namespace AlwaysOpen\SerpApi\DTOs\Google;
 
-use Spatie\LaravelData\Attributes\DataCollectionOf;
 use Spatie\LaravelData\Data;
 
 class ImmersiveProductResponse extends Data
