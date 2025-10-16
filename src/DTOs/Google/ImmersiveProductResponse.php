@@ -9,6 +9,6 @@ class ImmersiveProductResponse extends Data
     public function __construct(
         public readonly SearchMetadata $search_metadata,
         public readonly SearchParameters $search_parameters,
-        public readonly ImmersiveProductResults $product_results,
+        public readonly ?ImmersiveProductResults $product_results = null,
     ) {}
 }

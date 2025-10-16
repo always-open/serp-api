@@ -1,0 +1,17 @@
+{
+  "search_metadata": {
+    "id": "68f12e7fcc56d34e74b53c3e",
+    "status": "Processing",
+    "json_endpoint": "https://serpapi.com/searches/f4d4ca32e4122e52/68f12e7fcc56d34e74b53c3e.json",
+    "created_at": "2025-10-16 17:42:23 UTC",
+    "processed_at": null,
+    "google_immersive_product_url": "https://www.google.com/async/oapv?yv=3&ei=145qZ7CeKu7n5NoPmrjS8Qo&q=+Coffee&gl=us&hl=en&cs=1&async=catalogid:16914877625280977865,gpcid:3245476400833551948,headlineOfferDocid:3238224844624912169,rds:PC_3245476400833551948|PROD_PC_3245476400833551948,imageDocid:476749915906327914,isp:true,query:%20Coffee,mid:576462612280130481,pvt:hg,sori:0,mno:3,_fmt:jspb",
+    "prettify_html_file": "https://serpapi.com/searches/f4d4ca32e4122e52/68f12e7fcc56d34e74b53c3e.prettify",
+    "total_time_taken": 0.00
+  },
+  "search_parameters": {
+    "engine": "google_immersive_product",
+    "page_token": "eyJlaSI6IjE0NXFaN0NlS3U3bjVOb1BtcmpTOFFvIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTY5MTQ4Nzc2MjUyODA5Nzc4NjUiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIzMjM4MjI0ODQ0NjI0OTEyMTY5IiwiaW1hZ2VEb2NpZCI6IjQ3Njc0OTkxNTkwNjMyNzkxNCIsInJkcyI6IlBDXzMyNDU0NzY0MDA4MzM1NTE5NDh8UFJPRF9QQ18zMjQ1NDc2NDAwODMzNTUxOTQ4IiwicXVlcnkiOiIrQ29mZmVlIiwiZ3BjaWQiOiIzMjQ1NDc2NDAwODMzNTUxOTQ4IiwibWlkIjoiNTc2NDYyNjEyMjgwMTMwNDgxIiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsfQ==",
+    "more_stores": true
+  }
+}

@@ -14,11 +14,15 @@ class SerpApiClient
 {
     protected string $apiKey;
 
-    protected string $baseUrl = 'https://serpapi.com/search';
+    protected string $baseSearchUrl = 'https://serpapi.com/search';
+
+    protected string $baseArchiveUrl = 'https://serpapi.com/searches';
 
     public const string JSON_TYPE = 'json';
 
     public const string HTML_TYPE = 'html';
+
+    public const string JSON_WITH_PIXEL_POSITION_TYPE = 'json_with_pixel_position';
 
     public function __construct(
         ?string $apiKey = null,
@@ -32,6 +36,7 @@ class SerpApiClient
     public function makeGetRequest(
         array $params = [],
         string $responseType = self::JSON_TYPE,
+        ?string $baseUrl = null,
     ): Response {
         if ($params) {
             $params['api_key'] = $this->apiKey;
@@ -43,7 +48,7 @@ class SerpApiClient
 
         $request = new Request(
             method: 'get',
-            uri: $this->baseUrl.".$responseType".($paramString ? '?'.$paramString : ''),
+            uri: ($baseUrl ?? $this->baseSearchUrl).".$responseType".($paramString ? '?'.$paramString : ''),
         );
 
         /**
@@ -67,6 +72,7 @@ class SerpApiClient
         bool $moreStores = false,
         ?string $nextPageToken = null,
         string $responseType = self::JSON_TYPE,
+        bool $async = false,
         bool $asDto = true,
     ): ImmersiveProductResponse|array|string {
         $params = array_filter([
@@ -74,9 +80,33 @@ class SerpApiClient
             'pageToken' => $pageToken,
             'more_stores' => $moreStores,
             'next_page_token' => $nextPageToken,
+            'async' => $async,
         ]);
 
-        $response = $this->makeGetRequest($params, $responseType);
+        $response = $this->makeGetRequest(params: $params, responseType: $responseType);
+
+        if ($responseType === self::JSON_TYPE) {
+            if ($asDto) {
+                return ImmersiveProductResponse::from($response->json());
+            }
+
+            return $response->json();
+        }
+
+        return $response->body();
+    }
+
+    /**
+     * @throws Throwable
+     * @throws GuzzleException
+     */
+    public function retrieveGoogleImmersiveProductResult(
+        string $searchId,
+        string $responseType = self::JSON_TYPE,
+        bool $asDto = true,
+    ) {
+
+        $response = $this->makeGetRequest(responseType: $responseType, baseUrl: $this->baseArchiveUrl . "/$searchId");
 
         if ($responseType === self::JSON_TYPE) {
             if ($asDto) {

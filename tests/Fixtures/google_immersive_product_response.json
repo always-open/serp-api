@@ -1,36 +1,22 @@
 {
-  "search_metadata":
-  {
-    "id":
-    "68f0df9d80f30ef7d7d0ae07",
-    "status":
-    "Success",
-    "json_endpoint":
-    "https://serpapi.com/searches/5f09a286a704478e/68f0df9d80f30ef7d7d0ae07.json",
-    "created_at":
-    "2025-10-16 12:05:49 UTC",
-    "processed_at":
-    "2025-10-16 12:05:49 UTC",
-    "google_immersive_product_url":
-    "https://www.google.com/async/oapv?yv=3&ei=145qZ7CeKu7n5NoPmrjS8Qo&q=+Coffee&gl=us&hl=en&cs=1&async=catalogid:16914877625280977865,gpcid:3245476400833551948,headlineOfferDocid:3238224844624912169,rds:PC_3245476400833551948|PROD_PC_3245476400833551948,imageDocid:476749915906327914,isp:true,query:%20Coffee,mid:576462612280130481,pvt:hg,_fmt:jspb",
-    "raw_html_file":
-    "https://serpapi.com/searches/5f09a286a704478e/68f0df9d80f30ef7d7d0ae07.html",
-    "prettify_html_file":
-    "https://serpapi.com/searches/5f09a286a704478e/68f0df9d80f30ef7d7d0ae07.prettify",
-    "total_time_taken":
-    1.26
+  "search_metadata": {
+    "id": "68f12e7fcc56d34e74b53c3e",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/f4d4ca32e4122e52/68f12e7fcc56d34e74b53c3e.json",
+    "created_at": "2025-10-16 17:42:23 UTC",
+    "processed_at": "2025-10-16 17:42:23 UTC",
+    "google_immersive_product_url": "https://www.google.com/async/oapv?yv=3&ei=145qZ7CeKu7n5NoPmrjS8Qo&q=+Coffee&gl=us&hl=en&cs=1&async=catalogid:16914877625280977865,gpcid:3245476400833551948,headlineOfferDocid:3238224844624912169,rds:PC_3245476400833551948|PROD_PC_3245476400833551948,imageDocid:476749915906327914,isp:true,query:%20Coffee,mid:576462612280130481,pvt:hg,sori:0,mno:3,_fmt:jspb",
+    "raw_html_file": "https://serpapi.com/searches/f4d4ca32e4122e52/68f12e7fcc56d34e74b53c3e.html",
+    "prettify_html_file": "https://serpapi.com/searches/f4d4ca32e4122e52/68f12e7fcc56d34e74b53c3e.prettify",
+    "total_time_taken": 2.41
   },
-  "search_parameters":
-  {
-    "engine":
-    "google_immersive_product",
-    "page_token":
-    "eyJlaSI6IjE0NXFaN0NlS3U3bjVOb1BtcmpTOFFvIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTY5MTQ4Nzc2MjUyODA5Nzc4NjUiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIzMjM4MjI0ODQ0NjI0OTEyMTY5IiwiaW1hZ2VEb2NpZCI6IjQ3Njc0OTkxNTkwNjMyNzkxNCIsInJkcyI6IlBDXzMyNDU0NzY0MDA4MzM1NTE5NDh8UFJPRF9QQ18zMjQ1NDc2NDAwODMzNTUxOTQ4IiwicXVlcnkiOiIrQ29mZmVlIiwiZ3BjaWQiOiIzMjQ1NDc2NDAwODMzNTUxOTQ4IiwibWlkIjoiNTc2NDYyNjEyMjgwMTMwNDgxIiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsfQ=="
+  "search_parameters": {
+    "engine": "google_immersive_product",
+    "page_token": "eyJlaSI6IjE0NXFaN0NlS3U3bjVOb1BtcmpTOFFvIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTY5MTQ4Nzc2MjUyODA5Nzc4NjUiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIzMjM4MjI0ODQ0NjI0OTEyMTY5IiwiaW1hZ2VEb2NpZCI6IjQ3Njc0OTkxNTkwNjMyNzkxNCIsInJkcyI6IlBDXzMyNDU0NzY0MDA4MzM1NTE5NDh8UFJPRF9QQ18zMjQ1NDc2NDAwODMzNTUxOTQ4IiwicXVlcnkiOiIrQ29mZmVlIiwiZ3BjaWQiOiIzMjQ1NDc2NDAwODMzNTUxOTQ4IiwibWlkIjoiNTc2NDYyNjEyMjgwMTMwNDgxIiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsfQ==",
+    "more_stores": true
   },
-  "product_results":
-  {
-    "thumbnails":
-    [
+  "product_results": {
+    "thumbnails": [
       "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTLZGlIO7g1DxfkRQNZr_3nSn18pIipoZLquGdiz4yrcm_b4or8lKt7vdg9KiFv1b3_vmk3QLtpKl9S3iyaQk7dGqEba_u70jfnQ7g5fbLjPbV7IntGBH7H",
       "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSOo9i8m4kRjr6HKvMUHBA8tlM8nyxy3N3pjRmKYxUZtCTU5VzSNWDlQpOVY4JAzp_kODW8xao8wF0Q7GToMVwQ2AgR9qcR-uq7T0vvZ7uO_8lce53OBGLS7w",
       "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRWl_63Ui3r7iezYt8zNvSsXBE62aV7jUD1h9IQXbfH5RT1IbECQ5HjmEIhpQDRm54VCEvMIa-ln6V0mT9b35IjJhWG4p1Dk3hdnLSsWEw",
@@ -43,794 +29,675 @@
       "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRDTnLKjMcqaotVY3uBVk-riT4zhQrRK8lKoAu9aYMTq_yatClfXn7b_TtTwEqFvOvzHaLRIUz25SDjZUG0d5F17Emk3NHAUgsp6HOSeLE0Wmm3eEUhZ0-XaQ",
       "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ0sYUl9JZGWL-EIblaaLg4lj7Uo2LrlevByBGJS6eLo66nX-Z5YCBKM70FDFOyZwut5hP9mxGfOneUinAemlMlrV0HayL7eq1cAT_x7G75UoHziLuivsXS4w"
     ],
-    "title":
-    "Folgers Classic Roast Ground Coffee",
-    "brand":
-    "Folgers",
-    "reviews":
-    14479,
-    "rating":
-    4.6,
-    "price_range":
-    "$6.29-$8.99",
-    "stores":
-    [
+    "title": "Folgers Classic Roast Ground Coffee",
+    "brand": "Folgers",
+    "reviews": 14476,
+    "rating": 4.6,
+    "price_range": "$6.29-$8.99",
+    "stores": [
       {
-        "name":
-        "Walmart",
-        "logo":
-        "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.walmart.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-        "link":
-        "https://www.walmart.com/ip/Folgers-Classic-Roast-Ground-Coffee-Medium-Roast-9-6-Ounce-Canister/241168688?wmlspartner=wlpa&selectedSellerId=0",
-        "title":
-        "Folgers Classic Roast Ground Coffee, Medium Roast, 9.6 oz Canister",
-        "rating":
-        4.3,
-        "reviews":
-        4964,
-        "payment_methods":
-        "PayPal, Affirm accepted",
-        "tag":
-        "Best price",
-        "details_and_offers":
-        [
-          "In stock online",
-          "Delivery $6.99",
+        "name": "Walmart",
+        "logo": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.walmart.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "link": "https://www.walmart.com/ip/Folgers-Classic-Roast-Ground-Coffee-Medium-Roast-9-6-Ounce-Canister/241168688?wl13=3348&selectedSellerId=0&wmlspartner=wlpa",
+        "title": "Folgers Classic Roast Ground Coffee, Medium Roast, 9.6 oz Canister",
+        "rating": 4.3,
+        "reviews": 4964,
+        "payment_methods": "PayPal, Affirm accepted",
+        "tag": "Nearby",
+        "details_and_offers": [
+          "In stock online and nearby",
+          "Same-day delivery $16.94",
           "Free 90-day returns"
         ],
-        "price":
-        "$6.97",
-        "extracted_price":
-        6.97,
-        "shipping":
-        "+ $6.99",
-        "shipping_extracted":
-        6.99,
-        "total":
-        "$13.96",
-        "extracted_total":
-        13.96
+        "price": "$6.97",
+        "extracted_price": 6.97,
+        "shipping": "+ $16.94",
+        "shipping_extracted": 16.94,
+        "total": "$23.91",
+        "extracted_total": 23.91
       },
       {
-        "name":
-        "Target",
-        "logo":
-        "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.target.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-        "link":
-        "https://www.target.com/p/folgers-classic-medium-roast-ground-coffee-9-6oz/-/A-13376546?TCID=OGS&AFID=google&CPNG=Dry%2BGrocery&adgroup=231-10&srsltid=AfmBOoo4p92rd5gAj2iqYOrbHc2fycMkPZ_QwhTqDBn3whWSkL5FoZhEFUU&region_id=100100",
-        "title":
-        "Folgers Classic Medium Roast Ground Coffee - 9.6oz",
-        "rating":
-        4.7,
-        "reviews":
-        6007,
-        "payment_methods":
-        "PayPal, Affirm accepted",
-        "details_and_offers":
-        [
-          "In stock online",
-          "Delivery between Oct 18 – 25 on orders $35+",
-          "Free 90-day returns"
-        ],
-        "price":
-        "$6.99",
-        "extracted_price":
-        6.99,
-        "total":
-        "$6.99",
-        "extracted_total":
-        6.99
-      },
-      {
-        "name":
-        "CVS Pharmacy",
-        "logo":
-        "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.cvs.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-        "link":
-        "https://www.cvs.com/shop/folgers-classic-roast-ground-coffee-9-6-oz-prodid-652783?skuId=652783&cgaa=QWxsb3dHb29nbGVUb0FjY2Vzc0NWU1BhZ2Vz",
-        "title":
-        "Folgers, Classic Roast Ground Coffee - 9.6 oz | CVS",
-        "rating":
-        4.7,
-        "reviews":
-        1337,
-        "payment_methods":
-        "PayPal accepted",
-        "details_and_offers":
-        [
-          "In stock online",
+        "name": "CVS Pharmacy",
+        "logo": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.cvs.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "link": "https://www.cvs.com/shop/folgers-classic-roast-ground-coffee-9-6-oz-prodid-652783?skuId=652783&cgaa=QWxsb3dHb29nbGVUb0FjY2Vzc0NWU1BhZ2Vz",
+        "title": "Folgers, Classic Roast Ground Coffee - 9.6 oz | CVS",
+        "rating": 4.7,
+        "reviews": 1337,
+        "payment_methods": "PayPal accepted",
+        "details_and_offers": [
+          "In stock online and nearby",
           "Free delivery between Mon - Wed on orders $35+",
           "60-day returns"
         ],
-        "price":
-        "$9.99",
-        "extracted_price":
-        9.99,
-        "shipping":
-        "+ $5.49",
-        "shipping_extracted":
-        5.49,
-        "total":
-        "$15.48",
-        "extracted_total":
-        15.48
+        "price": "$9.99",
+        "extracted_price": 9.99,
+        "shipping": "+ $5.49",
+        "shipping_extracted": 5.49,
+        "total": "$15.48",
+        "extracted_total": 15.48
+      },
+      {
+        "name": "The J.M. Smucker Co. Shop",
+        "logo": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://shop.smucker.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "link": "https://shop.smucker.com/products/folgers-classic-roast-medium-roast-ground-coffee?variant=47089601413398&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOoq7_-frLEw97yztQhCO3v_eFVcnqJ0PLOJNRyVzb_6QHiQNNMefTbc",
+        "title": "Folgers Classic Roast, Medium Roast, Ground Coffee 9 oz",
+        "payment_methods": "PayPal, Google Pay, Shop Pay accepted",
+        "details_and_offers": [
+          "In stock online",
+          "Free delivery by Wed on orders $59+"
+        ],
+        "price": "$8.49",
+        "extracted_price": 8.49,
+        "shipping": "+ $5.71",
+        "shipping_extracted": 5.71,
+        "total": "$14.20",
+        "extracted_total": 14.2
+      },
+      {
+        "name": "The J.M. Smucker Co. Shop",
+        "logo": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://shop.smucker.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "link": "https://shop.smucker.com/products/folgers-classic-roast-medium-roast-ground-coffee?variant=47089601413398&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOoqdsDbRQXKGNsZ1uXo558LbhSdCFE-JFXuAr7WpkpMYH1Yltps5qS0",
+        "title": "Folgers Classic Roast, Medium Roast, Ground Coffee 9 oz",
+        "payment_methods": "PayPal, Google Pay, Shop Pay accepted",
+        "details_and_offers": [
+          "In stock online",
+          "Free delivery by Wed on orders $59+"
+        ],
+        "price": "$8.49",
+        "extracted_price": 8.49,
+        "shipping": "+ $5.71",
+        "shipping_extracted": 5.71,
+        "total": "$14.20",
+        "extracted_total": 14.2
+      },
+      {
+        "name": "eBay - grab_dealsllc",
+        "logo": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.ebay.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "link": "https://www.ebay.com/itm/175938923307?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item&srsltid=AfmBOorY9YOvniUPl_c6rpTgOVQQdPNqGmqXYHNhr1yfBH-pTS08r5-e7GI",
+        "title": "Folgers Classic Roast Ground Coffee 9.6oz",
+        "payment_methods": "PayPal, Google Pay accepted",
+        "details_and_offers": [
+          "In stock online",
+          "Delivery by Oct 27 $6.99",
+          "30-day returns"
+        ],
+        "price": "$7.44",
+        "extracted_price": 7.44,
+        "shipping": "+ $6.99",
+        "shipping_extracted": 6.99,
+        "total": "$14.43",
+        "extracted_total": 14.43
+      },
+      {
+        "name": "Instacart",
+        "logo": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.instacart.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "link": "https://www.instacart.com/products/26683583-folgers-medium-roast-classic-roast-100-pure-ground-coffee-9-6-oz?retailer_id=57&product_id=26683583&region_id=9471427869",
+        "title": "Folgers Classic Roast Ground Coffee, Medium Roast, 9.6 Oz. Canister - 9.6 oz",
+        "payment_methods": "PayPal, Google Pay, Klarna accepted",
+        "details_and_offers": [
+          "In stock online and nearby",
+          "2 hour delivery $11"
+        ],
+        "price": "$10.19",
+        "extracted_price": 10.19,
+        "shipping": "+ $11.00",
+        "shipping_extracted": 11.0,
+        "total": "$21.19",
+        "extracted_total": 21.19
+      },
+      {
+        "name": "FoodServiceDirect.com",
+        "logo": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.foodservicedirect.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "link": "https://www.foodservicedirect.com/folgers-classic-roast-ground-coffee-9-6-ounce-6-per-case-23077382.html?srsltid=AfmBOorcAjxOsPTTVGHIA8Ahi20GAl1IF5tBlBQIJn88QTg__mDElT3kYQo",
+        "title": "Folgers Classic Roast Ground Coffee, 9.6 Ounce -- 6 per case",
+        "rating": 4.5,
+        "reviews": 14079,
+        "payment_methods": "PayPal, Afterpay accepted",
+        "details_and_offers": [
+          "In stock online",
+          "Delivery $13.14",
+          "7-day returns"
+        ],
+        "price": "$58.95",
+        "extracted_price": 58.95,
+        "shipping": "+ $13.14",
+        "shipping_extracted": 13.14,
+        "total": "$72.09",
+        "extracted_total": 72.09
+      },
+      {
+        "name": "Round Eye Supply",
+        "logo": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://roundeyesupply.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "link": "https://roundeyesupply.com/products/folgers-classic-roast-6-9-6-oz-749064?variant=45179947680062&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOoqcNn1CYO7uOHNUN841hKcP6cpaoNhxIyfwwsn6-kShLu3yI3ZA7l4",
+        "title": "Folgers Classic Roast-9.6 oz.-6/Case MPN# 2550030401",
+        "rating": 4.8,
+        "reviews": 826,
+        "payment_methods": "PayPal, Google Pay, Shop Pay accepted",
+        "details_and_offers": [
+          "In stock online",
+          "Delivery by Oct 27 $26.65",
+          "5-day returns"
+        ],
+        "price": "$57.24",
+        "extracted_price": 57.24,
+        "shipping": "+ $26.65",
+        "shipping_extracted": 26.65,
+        "total": "$83.89",
+        "extracted_total": 83.89
+      },
+      {
+        "name": "BuyItByTheCase.Com",
+        "logo": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://buyitbythecase.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "link": "https://buyitbythecase.com/folgers-classic-roast-ground-coffee-9-6-ounce-6-per-case/?setCurrencyId=1&sku=749064",
+        "title": "Folgers Classic Roast Ground Coffee, 9.6 Ounce, 6 Per Case",
+        "payment_methods": "PayPal accepted",
+        "details_and_offers": [
+          "In stock online",
+          "Free delivery between Oct 22 – 28",
+          "Free 30-day returns"
+        ],
+        "price": "$72.62",
+        "extracted_price": 72.62,
+        "shipping": "Free",
+        "total": "$72.62",
+        "extracted_total": 72.62
+      },
+      {
+        "name": "Web Food Store",
+        "logo": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://webfoodstore.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "link": "https://webfoodstore.com/products/folgers-classic-roast-9-6-ounce-size-6-per-case?currency=USD&variant=42831983444193&utm_source=google&utm_medium=cpc&utm_campaign=Google%20Shopping&stkn=6179d34665d3&srsltid=AfmBOopsFV7JcDN6x_lN45pLDTT-jbgBXy8G0DA7BfYgFFBykkYhMrxCn3I",
+        "title": "Folgers Classic Roast 9.6 Ounce Size - 6 Per Case.",
+        "payment_methods": "PayPal, Google Pay, Shop Pay accepted",
+        "details_and_offers": [
+          "In stock online",
+          "Delivery by Oct 23 $17.25"
+        ],
+        "discount": "7% off",
+        "price": "$59.06",
+        "extracted_price": 59.06,
+        "original_price": "$63.79",
+        "extracted_original_price": 63.79,
+        "shipping": "+ $17.25",
+        "shipping_extracted": 17.25,
+        "total": "$76.31",
+        "extracted_total": 76.31
+      },
+      {
+        "name": "beverageforyou.com",
+        "logo": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://beverageforyou.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "link": "https://beverageforyou.com/product/folgers-classic-roast-ground-coffee-medium-roast-9-6-oz-canister/?attribute_pa_packsize=6-canisters&srsltid=AfmBOoqM3mrc8cWEIgFE3fZIHLhrNZI7PdohI4j4Hyt7AYjC8f6XkpbfWFE",
+        "title": "Folgers Classic Roast Ground Coffee, Medium Roast – 9.6 Oz Canisters (6 pack)",
+        "rating": 4.9,
+        "reviews": 10,
+        "payment_methods": "Google Pay accepted",
+        "details_and_offers": [
+          "In stock online",
+          "Free delivery by Wed",
+          "3-day returns"
+        ],
+        "discount": "15% off",
+        "price": "$54.93",
+        "extracted_price": 54.93,
+        "original_price": "$65.15",
+        "extracted_original_price": 65.15,
+        "shipping": "Free",
+        "total": "$54.93",
+        "extracted_total": 54.93
+      },
+      {
+        "name": "StockUpExpress",
+        "logo": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.stockupexpress.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "link": "https://www.stockupexpress.com/products/folgers-classic-medium-roast-ground-coffee-9-6-oz-6-pack?variant=40897378975841&utm_source=google&utm_medium=organic&utm_campaign=surfaces-across-google&utm_term=40897378975841&srsltid=AfmBOooifOEgKt7WJ-mCwtQJEZdGdbclGx7326xoevnFaGNXMLLmTHj_5U0",
+        "title": "Bulk - Folgers Classic Medium Roast Ground Coffee - 9.6 OZ 6 Pack",
+        "payment_methods": "Google Pay, Shop Pay accepted",
+        "details_and_offers": [
+          "In stock online",
+          "Delivery between Oct 21 – 28 $29.25",
+          "Save 10% when you buy 2 or more items!"
+        ],
+        "price": "$57.54",
+        "extracted_price": 57.54,
+        "shipping": "+ $29.25",
+        "shipping_extracted": 29.25,
+        "total": "$86.79",
+        "extracted_total": 86.79
+      },
+      {
+        "name": "beverageforyou.com",
+        "logo": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://beverageforyou.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "link": "https://beverageforyou.com/product/folgers-classic-roast-ground-coffee-medium-roast-9-6-oz-canister/?attribute_pa_packsize=3-canisters&srsltid=AfmBOopAPeeRWF66NgG7cbr-GeuA7IdAhTh8EXjIPMsKLjzJH1Vt8QV7gUI",
+        "title": "Folgers Classic Roast Ground Coffee, Medium Roast, 9.6-Oz Canister (3 pack)",
+        "rating": 4.9,
+        "reviews": 10,
+        "payment_methods": "Google Pay accepted",
+        "details_and_offers": [
+          "In stock online",
+          "Free delivery by Wed",
+          "3-day returns"
+        ],
+        "price": "$54.93",
+        "extracted_price": 54.93,
+        "shipping": "Free",
+        "total": "$54.93",
+        "extracted_total": 54.93
       }
     ],
-    "stores_next_page_token":
-    "C8TwMHica15aklmSk3pT2S0_Jz21qFjBOSexuDgzWSEoP7G4RMG9KL80L0XBOT8tLTV1SXF-USbz4ty8fC4AbNYVdg",
-    "about_the_product":
-    {
-      "title":
-      "Classic Roast Coffee",
-      "link":
-      "https://www.folgerscoffee.com/coffee/ground/classic-roast",
-      "displayed_link":
-      "folgerscoffee.com",
-      "icon":
-      "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.folgerscoffee.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2",
-      "description":
-      "Folgers Classic Roast coffee is made from Mountain Grown beans, the richest and most aromatic in the world. This classic medium-roast ground coffee has a fresh, eye-opening aroma that will entice you every morning. Folgers Classic Roast coffee is classic for a reason—that consistently rich, pure taste, cup after cup and The Best Part of Wakin’ Up for more than 150 years. Folgers coffee great pure taste is equally matched by the dedication to bringing you the flavors you love in the format you choose. Some of your favorite Folgers roasts are also available in canisters, K-Cup Pods, instant, individual single serve packets and other convenient formats. | Lower prices on over 1,000 items. Save big with grocery deals and affordable products near you.",
-      "features":
-      [
+    "stores_next_page_token": "5Om7hHica15aklmSk3pT2S0_Jz21qFjBOSexuDgzWSEoP7G4RMG9KL80L0XBOT8tLTV1SXF-USbv4ty8fC4AbRIVgA",
+    "about_the_product": {
+      "title": "Classic Roast Coffee",
+      "link": "https://www.folgerscoffee.com/coffee/ground/classic-roast",
+      "displayed_link": "folgerscoffee.com",
+      "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.folgerscoffee.com&client=SHOPPING&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2",
+      "description": "Folgers Classic Roast coffee is made from Mountain Grown beans, the richest and most aromatic in the world. This classic medium-roast ground coffee has a fresh, eye-opening aroma that will entice you every morning. Folgers Classic Roast coffee is classic for a reason—that consistently rich, pure taste, cup after cup and The Best Part of Wakin’ Up for more than 150 years. Folgers coffee great pure taste is equally matched by the dedication to bringing you the flavors you love in the format you choose. Some of your favorite Folgers roasts are also available in canisters, K-Cup Pods, instant, individual single serve packets and other convenient formats. | Lower prices on over 1,000 items. Save big with grocery deals and affordable products near you.",
+      "features": [
         {
-          "title":
-          "Roast Level",
-          "value":
-          "Medium"
+          "title": "Roast Level",
+          "value": "Medium"
         },
         {
-          "title":
-          "Coffee Form",
-          "value":
-          "Ground"
+          "title": "Coffee Form",
+          "value": "Ground"
         },
         {
-          "title":
-          "Coffee Variety",
-          "value":
-          "Arabica"
+          "title": "Coffee Variety",
+          "value": "Arabica"
         },
         {
-          "title":
-          "Grind",
-          "value":
-          "Medium"
+          "title": "Grind",
+          "value": "Medium"
         },
         {
-          "title":
-          "Caffeine Level",
-          "value":
-          "Medium"
+          "title": "Caffeine Level",
+          "value": "Medium"
         },
         {
-          "title":
-          "Decaf Option",
-          "value":
-          "No"
+          "title": "Decaf Option",
+          "value": "No"
         },
         {
-          "title":
-          "Country",
-          "value":
-          "US, CR, BR"
+          "title": "Country",
+          "value": "US, CR, BR"
         },
         {
-          "title":
-          "Region",
-          "value":
-          "North America & Caribbean"
+          "title": "Region",
+          "value": "North America & Caribbean"
         },
         {
-          "title":
-          "Flavor Notes",
-          "value":
-          "Rich, Smooth"
+          "title": "Flavor Notes",
+          "value": "Rich, Smooth"
         },
         {
-          "title":
-          "Flavor Intensity",
-          "value":
-          "Medium"
+          "title": "Flavor Intensity",
+          "value": "Medium"
         },
         {
-          "title":
-          "Flavor Profile",
-          "value":
-          "Balanced"
+          "title": "Flavor Profile",
+          "value": "Balanced"
         },
         {
-          "title":
-          "Sweetness",
-          "value":
-          "Medium"
+          "title": "Sweetness",
+          "value": "Medium"
         },
         {
-          "title":
-          "Acidity",
-          "value":
-          "Medium"
+          "title": "Acidity",
+          "value": "Medium"
         },
         {
-          "title":
-          "Body",
-          "value":
-          "Medium"
+          "title": "Body",
+          "value": "Medium"
         },
         {
-          "title":
-          "Sugar Content",
-          "value":
-          "None"
+          "title": "Sugar Content",
+          "value": "None"
         },
         {
-          "title":
-          "Flavorings",
-          "value":
-          "Unflavored"
+          "title": "Flavorings",
+          "value": "Unflavored"
         },
         {
-          "title":
-          "Prep Method",
-          "value":
-          "Drip"
+          "title": "Prep Method",
+          "value": "Drip"
         },
         {
-          "title":
-          "Prep Equip",
-          "value":
-          "Drip Coffee Maker"
+          "title": "Prep Equip",
+          "value": "Drip Coffee Maker"
         },
         {
-          "title":
-          "Certifications",
-          "value":
-          "Kosher"
+          "title": "Certifications",
+          "value": "Kosher"
         },
         {
-          "title":
-          "Packaging Material",
-          "value":
-          "Recyclable"
+          "title": "Packaging Material",
+          "value": "Recyclable"
         },
         {
-          "title":
-          "Container Type",
-          "value":
-          "Bag"
+          "title": "Container Type",
+          "value": "Bag"
         },
         {
-          "title":
-          "Count",
-          "value":
-          "1, 6, 10, 150, 160 pcs."
+          "title": "Count",
+          "value": "1, 6, 10, 150, 160 pcs."
         },
         {
-          "title":
-          "Weight",
-          "value":
-          "8.38 lbs - 10.27 lbs (25.9 oz - 43.5 oz)"
+          "title": "Weight",
+          "value": "8.38 lbs - 10.27 lbs (25.9 oz - 43.5 oz)"
         },
         {
-          "title":
-          "Bulk?",
-          "value":
-          "No"
+          "title": "Bulk?",
+          "value": "No"
         },
         {
-          "title":
-          "Variety Pack?",
-          "value":
-          "No"
+          "title": "Variety Pack?",
+          "value": "No"
         },
         {
-          "title":
-          "Brew Method",
-          "value":
-          "Drip"
+          "title": "Brew Method",
+          "value": "Drip"
         },
         {
-          "title":
-          "Skill Level",
-          "value":
-          "Beginner"
+          "title": "Skill Level",
+          "value": "Beginner"
         },
         {
-          "title":
-          "Top Use Cases",
-          "value":
-          "Morning coffee"
+          "title": "Top Use Cases",
+          "value": "Morning coffee"
         },
         {
-          "title":
-          "Seasonal",
-          "value":
-          "No"
+          "title": "Seasonal",
+          "value": "No"
         }
       ]
     },
-    "top_insights":
-    [
+    "top_insights": [
       {
-        "title":
-        "Flavor (Aftertaste, Aroma)",
-        "items":
-        [
+        "title": "Flavor (Aftertaste, Aroma)",
+        "items": [
           {
-            "snippet":
-            "Classic, balanced flavor for people who like their coffee simple.",
-            "icon":
-            "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.southernkitchen.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-            "link":
-            "https://www.southernkitchen.com/story/drink/2021/07/29/our-3-favorite-store-bought-coffee-beans/5421281001/",
-            "source":
-            "Southern Kitchen",
-            "title":
-            "Our 3 favorite store-bought coffee beans"
+            "snippet": "Classic, balanced flavor for people who like their coffee simple.",
+            "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.southernkitchen.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.southernkitchen.com/story/drink/2021/07/29/our-3-favorite-store-bought-coffee-beans/5421281001/",
+            "source": "Southern Kitchen",
+            "title": "Our 3 favorite store-bought coffee beans"
           },
           {
-            "snippet":
-            "``It tastes like wet cardboard, which is a sign of old, raw product.",
-            "icon":
-            "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.thrillist.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-            "link":
-            "https://www.thrillist.com/drink/nation/best-k-cup-coffee-keurig-taste-test",
-            "source":
-            "Thrillist",
-            "title":
-            "K-Cups: Best Keurig K-Cups Coffee Pod Flavors, Tasted & Ranked"
+            "snippet": "``It tastes like wet cardboard, which is a sign of old, raw product.",
+            "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.thrillist.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.thrillist.com/drink/nation/best-k-cup-coffee-keurig-taste-test",
+            "source": "Thrillist",
+            "title": "K-Cups: Best Keurig K-Cups Coffee Pod Flavors, Tasted & Ranked"
           },
           {
-            "key_point":
-            "Pleasant aroma",
-            "snippet":
-            "It smells heavenly and tastes even better. There's no bitter taste, no aftertaste. Just smooth and warm. Thanks to the amazing bundle I received with a can of",
-            "user":
-            "Farrah O",
-            "date":
-            "3mo",
-            "source":
-            "influenster.com"
+            "key_point": "Pleasant aroma",
+            "snippet": "It smells heavenly and tastes even better. There's no bitter taste, no aftertaste. Just smooth and warm. Thanks to the amazing bundle I received with a can of",
+            "user": "Farrah O",
+            "date": "3mo",
+            "source": "influenster.com"
           },
           {
-            "key_point":
-            "Tastes good",
-            "snippet":
-            "These are DELICIOUS and effective. Ricola throat drops are trusted for generations because they truly soothe sore throats and calm the itchiness and dryness",
-            "date":
-            "1y",
-            "source":
-            "influenster.com"
+            "key_point": "Tastes good",
+            "snippet": "These are DELICIOUS and effective. Ricola throat drops are trusted for generations because they truly soothe sore throats and calm the itchiness and dryness",
+            "date": "1y",
+            "source": "influenster.com"
           },
           {
-            "snippet":
-            "it's papery uhhuh i got to taste it again to Even though there's a lot of cream in here.",
-            "timestamp":
-            "From 3:12",
-            "thumbnail":
-            "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSwSe_qeBh22nCB2Uy46z9KOJCIVHb4D7mrJyHzNipmD5O-IjOo4FG8znvybf5Ke3dwwCWYCswqAlodQL6w7R7fRtIk-iWcIUDvZGKeCw",
-            "icon":
-            "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-            "link":
-            "https://www.youtube.com/watch?v=tz80kADtDao&t=192",
-            "user":
-            "Coffee Coffee Coffee And Books",
-            "date":
-            "Jan 2018",
-            "source":
-            "YouTube"
+            "snippet": "it's papery uhhuh i got to taste it again to Even though there's a lot of cream in here.",
+            "timestamp": "From 3:12",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSwSe_qeBh22nCB2Uy46z9KOJCIVHb4D7mrJyHzNipmD5O-IjOo4FG8znvybf5Ke3dwwCWYCswqAlodQL6w7R7fRtIk-iWcIUDvZGKeCw",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.youtube.com/watch?v=tz80kADtDao&t=192",
+            "user": "Coffee Coffee Coffee And Books",
+            "date": "Jan 2018",
+            "source": "YouTube"
           },
           {
-            "key_point":
-            "Pleasant body",
-            "snippet":
-            "The coffee has a full flavor and nice body. It tastes rich in flavor. I used approximately what the guide on the back of the jar suggested. There was no",
-            "user":
-            "laurenp581",
-            "date":
-            "1y",
-            "source":
-            "folgerscoffee.com"
-          },
-          {
-            "pros":
-            [
+            "pros": [
               "Aroma is strong and comforting"
             ],
-            "icon":
-            "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.hometesterclub.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-            "link":
-            "https://www.hometesterclub.com/reviews/folgers-classic-roast-ground-coffee",
-            "date":
-            "1w",
-            "source":
-            "Home Tester Club",
-            "title":
-            "Folgers Classic Roast Ground Coffee"
+            "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.hometesterclub.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.hometesterclub.com/reviews/folgers-classic-roast-ground-coffee",
+            "date": "1w",
+            "source": "Home Tester Club",
+            "title": "Folgers Classic Roast Ground Coffee"
           },
           {
-            "pros":
-            [
+            "pros": [
               "Great flavor, not too strong or light",
               "Smooth and enjoyable taste"
             ],
-            "icon":
-            "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.ubuy.com.bd&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-            "link":
-            "https://www.ubuy.com.bd/en/product/4Z1LIBUNG-folgers-classic-roast-ground-coffee-medium-roast-coffee-25-9-ounce-canister",
-            "date":
-            "2w",
-            "source":
-            "Ubuy Bangladesh",
-            "title":
-            "Folgers Classic Roast Ground Coffee - Medium Roast, Bangladesh | Ubuy"
+            "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.ubuy.com.bd&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.ubuy.com.bd/en/product/4Z1LIBUNG-folgers-classic-roast-ground-coffee-medium-roast-coffee-25-9-ounce-canister",
+            "date": "2w",
+            "source": "Ubuy Bangladesh",
+            "title": "Folgers Classic Roast Ground Coffee - Medium Roast, Bangladesh | Ubuy"
           },
           {
-            "pros":
-            [
+            "pros": [
               "Great flavor, not too strong or light",
               "Smooth and enjoyable taste"
             ],
-            "icon":
-            "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.ubuy.com.bd&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-            "link":
-            "https://www.ubuy.com.bd/en/product/4Z1LIBUNG-folgers-classic-roast-ground-coffee-medium-roast-coffee-25-9-ounce-canister",
-            "date":
-            "2w",
-            "source":
-            "Ubuy Bangladesh",
-            "title":
-            "Folgers Classic Roast Ground Coffee - Medium Roast, Bangladesh | Ubuy"
+            "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.ubuy.com.bd&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.ubuy.com.bd/en/product/4Z1LIBUNG-folgers-classic-roast-ground-coffee-medium-roast-coffee-25-9-ounce-canister",
+            "date": "2w",
+            "source": "Ubuy Bangladesh",
+            "title": "Folgers Classic Roast Ground Coffee - Medium Roast, Bangladesh | Ubuy"
           }
         ]
       },
       {
-        "title":
-        "Roast",
-        "subtitle":
-        "Medium Roast",
-        "items":
-        [
+        "title": "Roast",
+        "subtitle": "Medium Roast",
+        "items": [
           {
-            "snippet":
-            "Not old, roasted product--it's pre-roast.",
-            "icon":
-            "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.thrillist.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-            "link":
-            "https://www.thrillist.com/drink/nation/best-k-cup-coffee-keurig-taste-test",
-            "source":
-            "Thrillist",
-            "title":
-            "K-Cups: Best Keurig K-Cups Coffee Pod Flavors, Tasted & Ranked"
+            "snippet": "Not old, roasted product--it's pre-roast.",
+            "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.thrillist.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.thrillist.com/drink/nation/best-k-cup-coffee-keurig-taste-test",
+            "source": "Thrillist",
+            "title": "K-Cups: Best Keurig K-Cups Coffee Pod Flavors, Tasted & Ranked"
           },
           {
-            "snippet":
-            "it doesn't give any kind of like It should taste like this just medium roast.",
-            "timestamp":
-            "From 0:51",
-            "thumbnail":
-            "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSwSe_qeBh22nCB2Uy46z9KOJCIVHb4D7mrJyHzNipmD5O-IjOo4FG8znvybf5Ke3dwwCWYCswqAlodQL6w7R7fRtIk-iWcIUDvZGKeCw",
-            "icon":
-            "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-            "link":
-            "https://www.youtube.com/watch?v=tz80kADtDao&t=51",
-            "user":
-            "Coffee Coffee Coffee And Books",
-            "date":
-            "Jan 2018",
-            "source":
-            "YouTube"
+            "snippet": "it doesn't give any kind of like It should taste like this just medium roast.",
+            "timestamp": "From 0:51",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSwSe_qeBh22nCB2Uy46z9KOJCIVHb4D7mrJyHzNipmD5O-IjOo4FG8znvybf5Ke3dwwCWYCswqAlodQL6w7R7fRtIk-iWcIUDvZGKeCw",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.youtube.com/watch?v=tz80kADtDao&t=51",
+            "user": "Coffee Coffee Coffee And Books",
+            "date": "Jan 2018",
+            "source": "YouTube"
           },
           {
-            "snippet":
-            "Best bang for your buck: Folgers Classic Roast Ground Coffee",
-            "icon":
-            "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.southernkitchen.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-            "link":
-            "https://www.southernkitchen.com/story/drink/2021/07/29/our-3-favorite-store-bought-coffee-beans/5421281001/",
-            "source":
-            "Southern Kitchen",
-            "title":
-            "Our 3 favorite store-bought coffee beans"
+            "snippet": "Best bang for your buck: Folgers Classic Roast Ground Coffee",
+            "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.southernkitchen.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.southernkitchen.com/story/drink/2021/07/29/our-3-favorite-store-bought-coffee-beans/5421281001/",
+            "source": "Southern Kitchen",
+            "title": "Our 3 favorite store-bought coffee beans"
           },
           {
-            "snippet":
-            "Our take: This affordable medium-roast blend might not be for fans of gourmet coffee, but it makes a great standard cup of",
-            "icon":
-            "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.southernkitchen.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-            "link":
-            "https://www.southernkitchen.com/story/drink/2021/07/29/our-3-favorite-store-bought-coffee-beans/5421281001/",
-            "source":
-            "Southern Kitchen",
-            "title":
-            "Our 3 favorite store-bought coffee beans"
+            "snippet": "Our take: This affordable medium-roast blend might not be for fans of gourmet coffee, but it makes a great standard cup of",
+            "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.southernkitchen.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.southernkitchen.com/story/drink/2021/07/29/our-3-favorite-store-bought-coffee-beans/5421281001/",
+            "source": "Southern Kitchen",
+            "title": "Our 3 favorite store-bought coffee beans"
           },
           {
-            "pros":
-            [
+            "pros": [
               "Smells so amazing",
               "Smooth taste"
             ],
-            "icon":
-            "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.shespeaks.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-            "link":
-            "https://www.shespeaks.com/Folgers-Coffee-Review",
-            "date":
-            "2w",
-            "source":
-            "SheSpeaks",
-            "title":
-            "Folgers Coffee Review"
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.shespeaks.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.shespeaks.com/Folgers-Coffee-Review",
+            "date": "2w",
+            "source": "SheSpeaks",
+            "title": "Folgers Coffee Review"
           },
           {
-            "pros":
-            [
+            "pros": [
               "Classic coffee flavor everyone can enjoy"
             ],
-            "icon":
-            "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.roastycoffee.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-            "link":
-            "https://www.roastycoffee.com/folgers-vs-starbucks-which-brand-will-you-brew/",
-            "date":
-            "1w",
-            "source":
-            "Roasty Coffee",
-            "title":
-            "Folgers vs. Starbucks: Which Brand Will You Brew?"
+            "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.roastycoffee.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.roastycoffee.com/folgers-vs-starbucks-which-brand-will-you-brew/",
+            "date": "1w",
+            "source": "Roasty Coffee",
+            "title": "Folgers vs. Starbucks: Which Brand Will You Brew?"
           },
           {
-            "pros":
-            [
+            "pros": [
               "Affordable, good-quality coffee",
               "Available in K-Cup pods for Keurigs"
             ],
-            "icon":
-            "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.roastycoffee.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-            "link":
-            "https://www.roastycoffee.com/folgers-vs-starbucks-which-brand-will-you-brew/",
-            "date":
-            "1w",
-            "source":
-            "Roasty Coffee",
-            "title":
-            "Folgers vs. Starbucks: Which Brand Will You Brew?"
+            "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.roastycoffee.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.roastycoffee.com/folgers-vs-starbucks-which-brand-will-you-brew/",
+            "date": "1w",
+            "source": "Roasty Coffee",
+            "title": "Folgers vs. Starbucks: Which Brand Will You Brew?"
           }
         ]
       },
       {
-        "title":
-        "Processing Method",
-        "items":
-        [
+        "title": "Processing Method",
+        "items": [
           {
-            "snippet":
-            "Our take: This affordable medium-roast blend might not be for fans of gourmet coffee, but it makes a great standard cup of",
-            "icon":
-            "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.southernkitchen.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-            "link":
-            "https://www.southernkitchen.com/story/drink/2021/07/29/our-3-favorite-store-bought-coffee-beans/5421281001/",
-            "source":
-            "Southern Kitchen",
-            "title":
-            "Our 3 favorite store-bought coffee beans"
+            "snippet": "Our take: This affordable medium-roast blend might not be for fans of gourmet coffee, but it makes a great standard cup of",
+            "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.southernkitchen.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.southernkitchen.com/story/drink/2021/07/29/our-3-favorite-store-bought-coffee-beans/5421281001/",
+            "source": "Southern Kitchen",
+            "title": "Our 3 favorite store-bought coffee beans"
           },
           {
-            "pros":
-            [
+            "pros": [
               "Brews consistently well in drip machines"
             ],
-            "icon":
-            "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.hometesterclub.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-            "link":
-            "https://www.hometesterclub.com/reviews/folgers-classic-roast-ground-coffee",
-            "date":
-            "1w",
-            "source":
-            "Home Tester Club",
-            "title":
-            "Folgers Classic Roast Ground Coffee"
+            "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.hometesterclub.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.hometesterclub.com/reviews/folgers-classic-roast-ground-coffee",
+            "date": "1w",
+            "source": "Home Tester Club",
+            "title": "Folgers Classic Roast Ground Coffee"
           },
           {
-            "pros":
-            [
+            "pros": [
               "Affordable, good-quality coffee",
               "Available in K-Cup pods for Keurigs"
             ],
-            "icon":
-            "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.roastycoffee.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-            "link":
-            "https://www.roastycoffee.com/folgers-vs-starbucks-which-brand-will-you-brew/",
-            "date":
-            "1w",
-            "source":
-            "Roasty Coffee",
-            "title":
-            "Folgers vs. Starbucks: Which Brand Will You Brew?"
+            "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.roastycoffee.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.roastycoffee.com/folgers-vs-starbucks-which-brand-will-you-brew/",
+            "date": "1w",
+            "source": "Roasty Coffee",
+            "title": "Folgers vs. Starbucks: Which Brand Will You Brew?"
           },
           {
-            "snippet":
-            "Folgers, Coffee, Classic Roast, Medium, K-Cup Pods",
-            "icon":
-            "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://shop.staterbros.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-            "link":
-            "https://shop.staterbros.com/shop/?category_id=18020025000000000",
-            "source":
-            "Stater Bros.",
-            "title":
-            "Shop All Products | Shop"
+            "snippet": "Folgers, Coffee, Classic Roast, Medium, K-Cup Pods",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://shop.staterbros.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://shop.staterbros.com/shop/?category_id=18020025000000000",
+            "source": "Stater Bros.",
+            "title": "Shop All Products | Shop"
           }
         ]
       },
       {
-        "title":
-        "Caffeine Content",
-        "items":
-        [
+        "title": "Caffeine Content",
+        "items": [
           {
-            "snippet":
-            "makes up to 400 cups of coffee that is a lot of coffee.",
-            "timestamp":
-            "From 0:13",
-            "thumbnail":
-            "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRkLUx3up41y4A5XqQnOorYuU2f1NMJKhJQVcqneeteN6kJ0gTgj5rGsyGWJYbb0Ysob-t2xsx0Zxmky1xV0e9vWiL7bL-SAUM2sUI7Kuc",
-            "icon":
-            "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-            "link":
-            "https://www.youtube.com/watch?v=xjbtHE7M1qI&t=13",
-            "user":
-            "Jeb Alvarez",
-            "date":
-            "Mar 2024",
-            "source":
-            "YouTube"
+            "snippet": "makes up to 400 cups of coffee that is a lot of coffee.",
+            "timestamp": "From 0:13",
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRkLUx3up41y4A5XqQnOorYuU2f1NMJKhJQVcqneeteN6kJ0gTgj5rGsyGWJYbb0Ysob-t2xsx0Zxmky1xV0e9vWiL7bL-SAUM2sUI7Kuc",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.youtube.com/watch?v=xjbtHE7M1qI&t=13",
+            "user": "Jeb Alvarez",
+            "date": "Mar 2024",
+            "source": "YouTube"
           },
           {
-            "snippet":
-            "Our take: This affordable medium-roast blend might not be for fans of gourmet coffee, but it makes a great standard cup of",
-            "icon":
-            "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.southernkitchen.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-            "link":
-            "https://www.southernkitchen.com/story/drink/2021/07/29/our-3-favorite-store-bought-coffee-beans/5421281001/",
-            "source":
-            "Southern Kitchen",
-            "title":
-            "Our 3 favorite store-bought coffee beans"
+            "snippet": "Our take: This affordable medium-roast blend might not be for fans of gourmet coffee, but it makes a great standard cup of",
+            "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.southernkitchen.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.southernkitchen.com/story/drink/2021/07/29/our-3-favorite-store-bought-coffee-beans/5421281001/",
+            "source": "Southern Kitchen",
+            "title": "Our 3 favorite store-bought coffee beans"
           },
           {
-            "pros":
-            [
+            "pros": [
               "Affordable, good-quality coffee",
               "Available in K-Cup pods for Keurigs"
             ],
-            "icon":
-            "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.roastycoffee.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-            "link":
-            "https://www.roastycoffee.com/folgers-vs-starbucks-which-brand-will-you-brew/",
-            "date":
-            "1w",
-            "source":
-            "Roasty Coffee",
-            "title":
-            "Folgers vs. Starbucks: Which Brand Will You Brew?"
+            "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.roastycoffee.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.roastycoffee.com/folgers-vs-starbucks-which-brand-will-you-brew/",
+            "date": "1w",
+            "source": "Roasty Coffee",
+            "title": "Folgers vs. Starbucks: Which Brand Will You Brew?"
           }
         ]
       },
       {
-        "title":
-        "Other highlights",
-        "items":
-        [
+        "title": "Other highlights",
+        "items": [
           {
-            "snippet":
-            "What we like: The plastic canister keeps coffee fresh without the need for an additional container.",
-            "icon":
-            "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.southernkitchen.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-            "link":
-            "https://www.southernkitchen.com/story/drink/2021/07/29/our-3-favorite-store-bought-coffee-beans/5421281001/",
-            "source":
-            "Southern Kitchen",
-            "title":
-            "Our 3 favorite store-bought coffee beans"
+            "snippet": "What we like: The plastic canister keeps coffee fresh without the need for an additional container.",
+            "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.southernkitchen.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.southernkitchen.com/story/drink/2021/07/29/our-3-favorite-store-bought-coffee-beans/5421281001/",
+            "source": "Southern Kitchen",
+            "title": "Our 3 favorite store-bought coffee beans"
           },
           {
-            "snippet":
-            "You won't find novelty blends with this brand that you would with Starbucks or Kicking Horse, but you won't find premium",
-            "icon":
-            "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://cornercoffeestore.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-            "link":
-            "https://cornercoffeestore.com/best-ground-coffee-canada/",
-            "source":
-            "Corner Coffee Store",
-            "title":
-            "10 Best Ground Coffees in Canada: 2025 Reviews & Top Picks"
+            "snippet": "You won't find novelty blends with this brand that you would with Starbucks or Kicking Horse, but you won't find premium",
+            "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://cornercoffeestore.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://cornercoffeestore.com/best-ground-coffee-canada/",
+            "source": "Corner Coffee Store",
+            "title": "10 Best Ground Coffees in Canada: 2025 Reviews & Top Picks"
           },
           {
-            "pros":
-            [
+            "pros": [
               "Great price"
             ],
-            "icon":
-            "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.shespeaks.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-            "link":
-            "https://www.shespeaks.com/Folgers-Coffee-Review",
-            "date":
-            "4d",
-            "source":
-            "SheSpeaks",
-            "title":
-            "Folgers Coffee Review"
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.shespeaks.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.shespeaks.com/Folgers-Coffee-Review",
+            "date": "5d",
+            "source": "SheSpeaks",
+            "title": "Folgers Coffee Review"
           },
           {
-            "snippet":
-            "Makes up to 400 cups of coffee that is a lot of coffee.",
-            "timestamp":
-            "From 0:13",
-            "thumbnail":
-            "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRkLUx3up41y4A5XqQnOorYuU2f1NMJKhJQVcqneeteN6kJ0gTgj5rGsyGWJYbb0Ysob-t2xsx0Zxmky1xV0e9vWiL7bL-SAUM2sUI7Kuc",
-            "icon":
-            "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-            "link":
-            "https://www.youtube.com/watch?v=xjbtHE7M1qI&t=13",
-            "user":
-            "Jeb Alvarez",
-            "date":
-            "Mar 2024",
-            "source":
-            "YouTube"
+            "snippet": "Makes up to 400 cups of coffee that is a lot of coffee.",
+            "timestamp": "From 0:13",
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRkLUx3up41y4A5XqQnOorYuU2f1NMJKhJQVcqneeteN6kJ0gTgj5rGsyGWJYbb0Ysob-t2xsx0Zxmky1xV0e9vWiL7bL-SAUM2sUI7Kuc",
+            "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.youtube.com/watch?v=xjbtHE7M1qI&t=13",
+            "user": "Jeb Alvarez",
+            "date": "Mar 2024",
+            "source": "YouTube"
           },
           {
-            "pros":
-            [
+            "pros": [
               "It comes in a resealable container"
             ],
-            "icon":
-            "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.roastycoffee.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-            "link":
-            "https://www.roastycoffee.com/folgers-vs-starbucks-which-brand-will-you-brew/",
-            "date":
-            "5d",
-            "source":
-            "Roasty Coffee",
-            "title":
-            "Folgers vs. Starbucks: Which Brand Will You Brew?"
+            "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.roastycoffee.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "link": "https://www.roastycoffee.com/folgers-vs-starbucks-which-brand-will-you-brew/",
+            "date": "6d",
+            "source": "Roasty Coffee",
+            "title": "Folgers vs. Starbucks: Which Brand Will You Brew?"
           }
         ]
       }
     ],
-    "ratings":
-    [
+    "ratings": [
       {
-        "stars":
-        1,
-        "amount":
-        682
+        "stars": 1,
+        "amount": 681
       },
       {
-        "stars":
-        2,
-        "amount":
-        243
+        "stars": 2,
+        "amount": 243
       },
       {
-        "stars":
-        3,
-        "amount":
-        594
+        "stars": 3,
+        "amount": 594
       },
       {
-        "stars":
-        4,
-        "amount":
-        1696
+        "stars": 4,
+        "amount": 1697
       },
       {
-        "stars":
-        5,
-        "amount":
-        11264
+        "stars": 5,
+        "amount": 11261
       }
     ],
-    "reviews_images":
-    [
+    "reviews_images": [
       "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQg2Q2nb_jRx1yl_IgNUAis5Lfr5rQR3dZCzkpZlNa1gKArHeZ9y6aODVWS4UQzSj1zfnmh3DRJR-qKXHlUwMcALfYfYtUw",
       "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ1kptuzU0SKi7fbxaRx8kbXqIZWhnJ9z_WkLgWD6CtStfalwAPFWXWq_Km1Fj6CGvvh_efX9NWTkv3H5nG9MTWBO_SiRfZ",
       "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRhmZZOAs-tA4y93rBt30EimZO3uhltZ_pzu9y7DtFXrxX9AGUPkyoQ6ulI1MOuD1Tra02MZne2289hMm2TS7Pmd5iB-QEvJQ",
@@ -843,673 +710,405 @@
       "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSJm8rRmVJmrRDVaB_mPlJF_QLOJdM7IG0uS4sMJOvbe1G_UHn2dU9iDzn0wMgQy_HglvfKhQPM4d83Y9tsOS_oZSPivLkfsQ",
       "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQKoqy4YO8f2wQiyNVm7lEzs1vsoE3TF_Pn8qWBr10eTkJX24ZDrao01RYE5BEUOQFkb9lIh9_D7fesabO6di84EcSEIWoq"
     ],
-    "user_reviews":
-    [
+    "user_reviews": [
       {
-        "title":
-        "Something Evil Has Happened to Folgers",
-        "text":
-        "I'm 45 years old and have been drinking Folgers since I was 8. After moving to Kenya, East Africa, in November of 2023 for permanent missionary work, it really hurt that I couldn't get my Folgers here. A friend from back home recently brought me a can of my beloved Classic Roast. I couldn't open it fast enough! But, the smell and flavor that I have grown up with and deeply crave is no longer there. What was once smooth in flavor and carrying a heavenly aroma has been replaced by brutal bitterness and smells like an old ashtray. Something very bad, very evil, has happened here. Please unchange whatever has been done. If so, I can have other visiting missionaries bring to what has been such a dear part of my existence with them when they come.",
-        "user_name":
-        "Metalbass1979",
-        "source":
-        "folgerscoffee.com",
-        "rating":
-        1,
-        "date":
-        "9 months ago",
-        "icon":
-        "https://lh3.googleusercontent.com/shsm/AGYqVK3MaSlGUGoqhLLEyovRTlRO2lzDjzoRc4f_oAmTyclrsfGiIB9_LyB44ZRYQbURNUqOPQ=w40-h40-c0x00000000-cc"
+        "title": "Something Evil Has Happened to Folgers",
+        "text": "I'm 45 years old and have been drinking Folgers since I was 8. After moving to Kenya, East Africa, in November of 2023 for permanent missionary work, it really hurt that I couldn't get my Folgers here.\n\nA friend from back home recently brought me a can of my beloved Classic Roast. I couldn't open it fast enough! But, the smell and flavor that I have grown up with and deeply crave is no longer there. What was once smooth in flavor and carrying a heavenly aroma has been replaced by brutal bitterness and smells like an old ashtray.\n\nSomething very bad, very evil, has happened here. Please unchange whatever has been done. If so, I can have other visiting missionaries bring to what has been such a dear part of my existence with them when they come.",
+        "user_name": "Metalbass1979",
+        "source": "folgerscoffee.com",
+        "rating": 1,
+        "date": "9 months ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK3MaSlGUGoqhLLEyovRTlRO2lzDjzoRc4f_oAmTyclrsfGiIB9_LyB44ZRYQbURNUqOPQ=w40-h40-c0x00000000-cc"
       },
       {
-        "title":
-        "I Won’t Buy Any Other Coffee!",
-        "text":
-        "Folgers is the number one coffee choice in our house! Morning isn’t morning without the great taste of Folgers fresh brewed coffee! I always purchase the value sized canister of the Classic brew. Smooth, silky, and doesn’t hurt my sensitive stomach! Just two scoops with a coffee scoop, and our 12-cup pot rewards us with the most delicious smelling and tasting coffee! Sealed in a large red canister, and sealed by a freshness foil, you can feel assured of getting the freshest coffee available! It’s what we serve guests! I rate this coffee with five stars and a big thumbs up. I highly recommend Folgers.",
-        "user_name":
-        "Cynthia",
-        "source":
-        "walmart.com",
-        "rating":
-        5,
-        "date":
-        "2 months ago",
-        "icon":
-        "https://lh3.googleusercontent.com/shsm/AGYqVK3b_XbhBiMGrU_xPpFT0kuLd5_hqf1Oy52MlxtBil1pnNWd84xglTSllqEswXo5dRA6Rg=w40-h40-c0x00000000-cc"
+        "title": "I Won’t Buy Any Other Coffee!",
+        "text": "Folgers is the number one coffee choice in our house! Morning isn’t morning without the great taste of Folgers fresh brewed coffee! I always purchase the value sized canister of the Classic brew. Smooth, silky, and doesn’t hurt my sensitive stomach! Just two scoops with a coffee scoop, and our 12-cup pot rewards us with the most delicious smelling and tasting coffee! Sealed in a large red canister, and sealed by a freshness foil, you can feel assured of getting the freshest coffee available! It’s what we serve guests! I rate this coffee with five stars and a big thumbs up. I highly recommend Folgers.",
+        "user_name": "Cynthia",
+        "source": "walmart.com",
+        "rating": 5,
+        "date": "2 months ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK3b_XbhBiMGrU_xPpFT0kuLd5_hqf1Oy52MlxtBil1pnNWd84xglTSllqEswXo5dRA6Rg=w40-h40-c0x00000000-cc"
       },
       {
-        "title":
-        "Amazing !",
-        "text":
-        "This sauna suit is AMAZING! | had never tried one before and I'm glad that I did! It fits very comfortably with great breath ability. I walked on the treadmill with it and after a few minutes, I was drenched in sweat! The material is very strong and does stick to you when you begin to sweat. I have worn this multiple times for a couple of weeks and I personally believe that it has helped to trim my waistline. I hydrated a lot before, during, and after exercising. I love this suit and highly recommend!",
-        "user_name":
-        "Melissa N",
-        "source":
-        "influenster.com",
-        "rating":
-        5,
-        "date":
-        "9 months ago",
-        "icon":
-        "https://lh3.googleusercontent.com/shsm/AGYqVK3Ew1si2xUqsdkDzDOba8bs6phD3BPfo3sUkQBQuxWgtWlGYwXH8x6FYhEIRgqHrZlm3Q=w40-h40-c0x00000000-cc",
-        "images":
-        [
+        "title": "Amazing !",
+        "text": "This sauna suit is AMAZING! | had never tried one before and I'm glad that I did! It fits very comfortably with great breath ability. I walked on the treadmill with it and after a few minutes, I was drenched in sweat! The material is very strong and does stick to you when you begin to sweat. I have worn this multiple times for a couple of weeks and I personally believe that it has helped to trim my waistline. I hydrated a lot before, during, and after exercising. I love this suit and highly recommend!",
+        "user_name": "Melissa N",
+        "source": "influenster.com",
+        "rating": 5,
+        "date": "9 months ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK3Ew1si2xUqsdkDzDOba8bs6phD3BPfo3sUkQBQuxWgtWlGYwXH8x6FYhEIRgqHrZlm3Q=w40-h40-c0x00000000-cc",
+        "images": [
           "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQg2Q2nb_jRx1yl_IgNUAis5Lfr5rQR3dZCzkpZlNa1gKArHeZ9y6aODVWS4UQzSj1zfnmh3DRJR-qKXHlUwMcALfYfYtUw",
           "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ1kptuzU0SKi7fbxaRx8kbXqIZWhnJ9z_WkLgWD6CtStfalwAPFWXWq_Km1Fj6CGvvh_efX9NWTkv3H5nG9MTWBO_SiRfZ",
           "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRhmZZOAs-tA4y93rBt30EimZO3uhltZ_pzu9y7DtFXrxX9AGUPkyoQ6ulI1MOuD1Tra02MZne2289hMm2TS7Pmd5iB-QEvJQ"
         ]
       },
       {
-        "title":
-        "Love shipping to door If packed Correctly.",
-        "text":
-        "Normally I would give Sam’s five stars. We just received the last portion of our order, which was four boxes. One box had four containers of coffee and Johnson’s shampoo. One coffee had completely exploded in the box and one other one had lost its seal. When we open the box, the coffee grounds went all over our kitchen besides, having coffee on the other stuff in the box, a mess. I love being able to ship product to our home since we live two hours away from a Sam’s club, but this was ridiculous. I appreciate Sam’s as they did replace the two coffees and the consultant was very good. We also had three boxes of ice drinks and two of those boxes, the ice drinks had broken out of there containers and were all over the box. We didn’t bother counting to make sure everything was there. Just disappointed with the shipping method. We ordered coffee before from Sam’s Club and they’ve had tape on the top cap or they’ve been shrink wrapped, but this time nothing to stop this from happening. ..",
-        "user_name":
-        "Maggie",
-        "source":
-        "samsclub.com",
-        "rating":
-        1,
-        "date":
-        "10 months ago",
-        "icon":
-        "https://lh3.googleusercontent.com/shsm/AGYqVK3v19vq5Y-IZgZLwytsposeOLrAIJgOw4fCkXMjNbPrHX3zvAfmiyMyd3izCIWJLX-Eng=w40-h40-c0x00000000-cc",
-        "images":
-        [
+        "title": "Love shipping to door If packed Correctly.",
+        "text": "Normally I would give Sam’s five stars. We just received the last portion of our order, which was four boxes. One box had four containers of coffee and Johnson’s shampoo. One coffee had completely exploded in the box and one other one had lost its seal.\nWhen we open the box, the coffee grounds went all over our kitchen besides, having coffee on the other stuff in the box, a mess. I love being able to ship product to our home since we live two hours away from a Sam’s club, but this was ridiculous. I appreciate Sam’s as they did replace the two coffees and the consultant was very good. We also had three boxes of ice drinks and two of those boxes, the ice drinks had broken out of there containers and were all over the box. We didn’t bother counting to make sure everything was there. Just disappointed with the shipping method. We ordered coffee before from Sam’s Club and they’ve had tape on the top cap or they’ve been shrink wrapped, but this time nothing to stop this from happening. .\n.",
+        "user_name": "Maggie",
+        "source": "samsclub.com",
+        "rating": 1,
+        "date": "10 months ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK3v19vq5Y-IZgZLwytsposeOLrAIJgOw4fCkXMjNbPrHX3zvAfmiyMyd3izCIWJLX-Eng=w40-h40-c0x00000000-cc",
+        "images": [
           "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcToFTGVMbNSBxtI24ma_sFo-0h1V2tb2z907ONvAFPh4HoMVxfswF-8klqS8CgkPcj_xz183PNDOude1lkOvuUXu-l7vPkCpw"
         ]
       },
       {
-        "title":
-        "Wonderful bronzer in a stick",
-        "text":
-        "I love merit products! This bronzer is no exception. The simple packaging; super easy to bring everywhere. the creamy and blendable formula is perfect for sculping or using as a bronzer … for everyday or for a night out. It’s super versatile. I love it. I will keep repurchasing. (I tried few others before from other brands this is my holy grail)",
-        "user_name":
-        "Lou L",
-        "source":
-        "influenster.com",
-        "rating":
-        5,
-        "date":
-        "a month ago",
-        "icon":
-        "https://lh3.googleusercontent.com/shsm/AGYqVK1MZ9Np6zCT5IaTzCKIi4K-Ca-CQ2bqEz-mc4EQFvDrifyL5_d68ciiDCLesRJWRLzcIA=w40-h40-c0x00000000-cc",
-        "images":
-        [
+        "title": "Wonderful bronzer in a stick",
+        "text": "I love merit products! This bronzer is no exception. The simple packaging; super easy to bring everywhere. the creamy and blendable formula is perfect for sculping or using as a bronzer … for everyday or for a night out. It’s super versatile. I love it. I will keep repurchasing. (I tried few others before from other brands this is my holy grail)",
+        "user_name": "Lou L",
+        "source": "influenster.com",
+        "rating": 5,
+        "date": "a month ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK1MZ9Np6zCT5IaTzCKIi4K-Ca-CQ2bqEz-mc4EQFvDrifyL5_d68ciiDCLesRJWRLzcIA=w40-h40-c0x00000000-cc",
+        "images": [
           "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR3aAzR8_B0zkxJsgBv3oxOoxaYaDl4qTmBHbWOhN9v9GXAJ9X8DZqHLr19vHyvlPxZq5PuOM3LZDpIM1T1JNv3yabwaI8O",
           "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSxbnzN8BBaFX7AnUZWwz8zcqBv0FQXXdDbeyWDLElHUJXMwh_VHrQ-onfr7YN1hZiLC2pmikJgXMnM64SbnMizIIfiKhBIwA"
         ]
       },
       {
-        "title":
-        "What a relief!",
-        "text":
-        "What a relief and what a tasty throat drops! The caramel flavor throat balm from my Ricola is delicious and will protect my throat when my throat feels irritated or scratchy. The product contains 7, 6 mg Pectin and can be taken every two hours if needed. I can feel it works shortly after, is not recommended for children under 6 years old. I feel good about Ricola throat balm drops and I would recommend it.",
-        "user_name":
-        "Tatjana F",
-        "source":
-        "influenster.com",
-        "rating":
-        5,
-        "date":
-        "3 months ago",
-        "icon":
-        "https://lh3.googleusercontent.com/shsm/AGYqVK1iOjN7M-0EQ4S6tZ3cCk_3g4Yms4ULhv45gC9gF56wx5nwxflgfZ1KkPQT06iyRdXyQA=w40-h40-c0x00000000-cc",
-        "images":
-        [
+        "title": "What a relief!",
+        "text": "What a relief and what a tasty throat drops! The caramel flavor throat balm from my Ricola is delicious and will protect my throat when my throat feels irritated or scratchy. The product contains 7, 6 mg Pectin and can be taken every two hours if needed. I can feel it works shortly after, is not recommended for children under 6 years old. I feel good about Ricola throat balm drops and I would recommend it.",
+        "user_name": "Tatjana F",
+        "source": "influenster.com",
+        "rating": 5,
+        "date": "3 months ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK1iOjN7M-0EQ4S6tZ3cCk_3g4Yms4ULhv45gC9gF56wx5nwxflgfZ1KkPQT06iyRdXyQA=w40-h40-c0x00000000-cc",
+        "images": [
           "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRCkCLqCt3il_qbgmrxMOEuUy2pRbTRtBo4ORr9gICP1zhqYuMQlaDxc7NtARP5RvmRQG92HfBG_KpKDTT11GuvkQwUIrGkxA",
           "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSRSI3InwAzji3uJlPb2lbKAlEPLea4N-YIFe_9Sh-isFxV5r-Ah1AaIr12Os--yRb_BBH9lbUthOxFtC2b_Zg9RjiVObFy8Q",
           "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQlUgGPWh9XLvZw-jGNKrcVo0zUIUj3iHLv2k_kTYTrf8EukVIrIV-k71G-X4Znr3RVaQp1g908kxExelqrkF6e9i2RA_Uibg"
         ]
       },
       {
-        "title":
-        "Nice packaging and buildable!",
-        "text":
-        "This Merit bronzer is so amazing! It comes with a good amount of product and it is very buildable! It is easy to apply and feels so smooth and buttery. It is also easy to blend in, most of the time. Its packaging looks and feels very high end!",
-        "user_name":
-        "Paige R",
-        "source":
-        "influenster.com",
-        "rating":
-        4,
-        "date":
-        "3 months ago",
-        "icon":
-        "https://lh3.googleusercontent.com/shsm/AGYqVK0de3QoAC3pbJcImZ1_zeqnbpdExQ1gpA35GrQaJczZXuuwHEkTHWafSZoh2mg9QxmZ3Q=w40-h40-c0x00000000-cc",
-        "images":
-        [
+        "title": "Nice packaging and buildable!",
+        "text": "This Merit bronzer is so amazing! It comes with a good amount of product and it is very buildable! It is easy to apply and feels so smooth and buttery. It is also easy to blend in, most of the time. Its packaging looks and feels very high end!",
+        "user_name": "Paige R",
+        "source": "influenster.com",
+        "rating": 4,
+        "date": "3 months ago",
+        "icon": "https://lh3.googleusercontent.com/shsm/AGYqVK0de3QoAC3pbJcImZ1_zeqnbpdExQ1gpA35GrQaJczZXuuwHEkTHWafSZoh2mg9QxmZ3Q=w40-h40-c0x00000000-cc",
+        "images": [
           "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSJm8rRmVJmrRDVaB_mPlJF_QLOJdM7IG0uS4sMJOvbe1G_UHn2dU9iDzn0wMgQy_HglvfKhQPM4d83Y9tsOS_oZSPivLkfsQ",
           "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQKoqy4YO8f2wQiyNVm7lEzs1vsoE3TF_Pn8qWBr10eTkJX24ZDrao01RYE5BEUOQFkb9lIh9_D7fesabO6di84EcSEIWoq"
         ]
       }
     ],
-    "videos":
-    [
+    "videos": [
       {
-        "title":
-        "Watch REVIEW- Folgers Classic Roast Ground Coffee on Amazon ...",
-        "link":
-        "https://www.amazon.com/live/video/0bc1e7051aff48b483b5b19808e32635",
-        "source":
-        "Amazon.com",
-        "channel":
-        "✅ The Savings Closet ✅",
-        "duration":
-        "0:39",
-        "thumbnail":
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5b8iv_SY1FDDSuj9-bxxrEDBhhjekHaGjBD-6j8hkrawwCQ&s",
-        "preview":
-        "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTyQM9XMybIMm53GcYK7Ruf0xqeYuoQ1V5crg"
+        "title": "Watch REVIEW- Folgers Classic Roast Ground Coffee on Amazon ...",
+        "link": "https://www.amazon.com/live/video/0bc1e7051aff48b483b5b19808e32635",
+        "source": "Amazon.com",
+        "channel": "✅ The Savings Closet ✅",
+        "duration": "0:39",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5b8iv_SY1FDDSuj9-bxxrEDBhhjekHaGjBD-6j8hkrawwCQ&s",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTyQM9XMybIMm53GcYK7Ruf0xqeYuoQ1V5crg"
       },
       {
-        "title":
-        "Folgers Classic Medium Roast Coffee",
-        "link":
-        "https://www.youtube.com/watch?v=vzsRv0cVrfQ",
-        "source":
-        "YouTube",
-        "channel":
-        "Your Review Channel",
-        "duration":
-        "1:04",
-        "thumbnail":
-        "https://i.ytimg.com/vi/vzsRv0cVrfQ/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3lzq1O0hPKZiWMRN-lC0V1YX64KmQ"
+        "title": "Folgers Classic Medium Roast Coffee",
+        "link": "https://www.youtube.com/watch?v=vzsRv0cVrfQ",
+        "source": "YouTube",
+        "channel": "Your Review Channel",
+        "duration": "1:04",
+        "thumbnail": "https://i.ytimg.com/vi/vzsRv0cVrfQ/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3lzq1O0hPKZiWMRN-lC0V1YX64KmQ"
       },
       {
-        "title":
-        "FOLGERS Decaf Classic Roast Medium Roast Ground Coffee Taste ...",
-        "link":
-        "https://www.youtube.com/watch?v=41oilIBAR4Y",
-        "source":
-        "YouTube",
-        "channel":
-        "Just A Dad Videos",
-        "duration":
-        "1:16",
-        "thumbnail":
-        "https://i.ytimg.com/vi/41oilIBAR4Y/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3lwYTytm9CT_eszKlC2zPjqB724lw",
-        "preview":
-        "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTA91TlTEgc17JsbZPcBvYUATTKrb3aA4dbEg"
+        "title": "FOLGERS Decaf Classic Roast Medium Roast Ground Coffee Taste ...",
+        "link": "https://www.youtube.com/watch?v=41oilIBAR4Y",
+        "source": "YouTube",
+        "channel": "Just A Dad Videos",
+        "duration": "1:16",
+        "thumbnail": "https://i.ytimg.com/vi/41oilIBAR4Y/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3lwYTytm9CT_eszKlC2zPjqB724lw",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTA91TlTEgc17JsbZPcBvYUATTKrb3aA4dbEg"
       },
       {
-        "title":
-        "Folgers Classic Roast Coffee Taste Test K-Cup VS Coffee Pot ...",
-        "link":
-        "https://www.youtube.com/watch?v=EjZZ95gwkPU",
-        "source":
-        "YouTube",
-        "channel":
-        "Just A Dad Videos",
-        "duration":
-        "4:01",
-        "thumbnail":
-        "https://i.ytimg.com/vi/EjZZ95gwkPU/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3lPsbUlCeWwkCq4BzQx9uQm37UaJA",
-        "preview":
-        "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSPWRkrnGtaqAiS77MgwGBCqtehUf0Tjl9O5g"
+        "title": "THE TRUTH ABOUT FOLGERS COFFEE",
+        "link": "https://www.youtube.com/watch?v=r-K_UWP_lPQ",
+        "source": "YouTube",
+        "channel": "Xhynet Useinovski",
+        "duration": "12:43",
+        "thumbnail": "https://i.ytimg.com/vi/r-K_UWP_lPQ/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3mIsHDJ-SYej2qMWQ2UJMecKzi51Q"
       },
       {
-        "title":
-        "How To Make Folgers Coffee In A Pot and Review",
-        "link":
-        "https://www.youtube.com/watch?v=KrwwzvNQfDo",
-        "source":
-        "YouTube",
-        "channel":
-        "Suzy Valentin",
-        "duration":
-        "1:28",
-        "thumbnail":
-        "https://i.ytimg.com/vi/KrwwzvNQfDo/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3lj9291Pi8QceBB-kSgxOqSDcNTaA"
+        "title": "Folgers Classic Roast Coffee Taste Test K-Cup VS Coffee Pot ...",
+        "link": "https://www.youtube.com/watch?v=EjZZ95gwkPU",
+        "source": "YouTube",
+        "channel": "Just A Dad Videos",
+        "duration": "4:01",
+        "thumbnail": "https://i.ytimg.com/vi/EjZZ95gwkPU/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3lPsbUlCeWwkCq4BzQx9uQm37UaJA",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSPWRkrnGtaqAiS77MgwGBCqtehUf0Tjl9O5g"
       },
       {
-        "title":
-        "Folgers Coffee Classic Roast...",
-        "link":
-        "https://www.youtube.com/watch?v=Yl01zYnbBic",
-        "source":
-        "YouTube",
-        "channel":
-        "Andrew Reviews Everything",
-        "duration":
-        "0:38",
-        "thumbnail":
-        "https://i.ytimg.com/vi/Yl01zYnbBic/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3n8FaJUPEcNbkRsgpun-e3W557e1Q",
-        "preview":
-        "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcS1sgz_j55u349tKB_I6sIWYynuriLgVnr8RQ"
+        "title": "How To Make Folgers Coffee In A Pot and Review",
+        "link": "https://www.youtube.com/watch?v=KrwwzvNQfDo",
+        "source": "YouTube",
+        "channel": "Suzy Valentin",
+        "duration": "1:28",
+        "thumbnail": "https://i.ytimg.com/vi/KrwwzvNQfDo/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3lj9291Pi8QceBB-kSgxOqSDcNTaA"
       },
       {
-        "title":
-        "Watch Folgers Classic Roast Medium Ground Coffee Reviewed on ...",
-        "link":
-        "https://www.amazon.com/live/video/08ad6c387c1143adb56523b495b61f34?ref_=dp_vse_rvc_3",
-        "source":
-        "Amazon.com",
-        "channel":
-        "Cory Haasnoot",
-        "duration":
-        "1:07",
-        "thumbnail":
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoj3vUwMweOehba9TVYd_l9TMGLsxcIB0nN4w7uv76_uU5IA&s",
-        "preview":
-        "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQd78ngkQjWvtslOJY8gfisvcSDXVrJuzKaqA"
+        "title": "Folgers Coffee Classic Roast...",
+        "link": "https://www.youtube.com/watch?v=Yl01zYnbBic",
+        "source": "YouTube",
+        "channel": "Andrew Reviews Everything",
+        "duration": "0:38",
+        "thumbnail": "https://i.ytimg.com/vi/Yl01zYnbBic/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3n8FaJUPEcNbkRsgpun-e3W557e1Q",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcS1sgz_j55u349tKB_I6sIWYynuriLgVnr8RQ"
       },
       {
-        "title":
-        "Watch Taste Test: Folgers Classic Medium Roast Ground Coffee on ...",
-        "link":
-        "https://www.amazon.com/live/video/07b0dece25e54e49a34698559480319a?ref_=dp_vse_rvc_1",
-        "source":
-        "Amazon.com",
-        "channel":
-        "Dad Reviews with @LaneVids",
-        "duration":
-        "1:16",
-        "thumbnail":
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-rlxs6eavGjfP41jveJIWwonFJq1tLckrjK4Sq-iBDKoxmQ&s",
-        "preview":
-        "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTg5JMrLeazbZhuMOaXLxxXjVQskwk9sPa-TA"
+        "title": "Watch Folgers Classic Roast Medium Ground Coffee Reviewed on ...",
+        "link": "https://www.amazon.com/live/video/08ad6c387c1143adb56523b495b61f34?ref_=dp_vse_rvc_3",
+        "source": "Amazon.com",
+        "channel": "Cory Haasnoot",
+        "duration": "1:07",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoj3vUwMweOehba9TVYd_l9TMGLsxcIB0nN4w7uv76_uU5IA&s",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQd78ngkQjWvtslOJY8gfisvcSDXVrJuzKaqA"
       },
       {
-        "title":
-        "Folgers Classic Roast Coffee Review",
-        "link":
-        "https://www.youtube.com/watch?v=tz80kADtDao",
-        "source":
-        "YouTube",
-        "channel":
-        "Coffee Coffee Coffee And Books",
-        "duration":
-        "6:54",
-        "thumbnail":
-        "https://i.ytimg.com/vi/tz80kADtDao/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3khUwAXongjlaWf9bNZ9PRB0Ofd5w",
-        "preview":
-        "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQNNT7xj3DYqkAxF6Sywxl9kkmtfwArS5OsvA"
+        "title": "Watch Taste Test: Folgers Classic Medium Roast Ground Coffee on ...",
+        "link": "https://www.amazon.com/live/video/07b0dece25e54e49a34698559480319a?ref_=dp_vse_rvc_1",
+        "source": "Amazon.com",
+        "channel": "Dad Reviews with @LaneVids",
+        "duration": "1:16",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-rlxs6eavGjfP41jveJIWwonFJq1tLckrjK4Sq-iBDKoxmQ&s",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTg5JMrLeazbZhuMOaXLxxXjVQskwk9sPa-TA"
       },
       {
-        "title":
-        "Folgers Classic Roast Coffee Review",
-        "link":
-        "https://www.youtube.com/watch?v=5pT7s-TyPXw",
-        "source":
-        "YouTube",
-        "channel":
-        "Undisputed Chaos",
-        "duration":
-        "9:55",
-        "thumbnail":
-        "https://i.ytimg.com/vi/5pT7s-TyPXw/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3n3vbtISE5DrPjqPqzEL6J3ffRPYw",
-        "preview":
-        "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcS5Fy8GNpBzI_8TBcuB3SugmASeTLOGpZqKyg"
+        "title": "Folgers Classic Roast Coffee Review",
+        "link": "https://www.youtube.com/watch?v=tz80kADtDao",
+        "source": "YouTube",
+        "channel": "Coffee Coffee Coffee And Books",
+        "duration": "6:54",
+        "thumbnail": "https://i.ytimg.com/vi/tz80kADtDao/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3khUwAXongjlaWf9bNZ9PRB0Ofd5w",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQNNT7xj3DYqkAxF6Sywxl9kkmtfwArS5OsvA"
       },
       {
-        "title":
-        "Experience the Flavor of Folgers Classic Roast Coffee",
-        "link":
-        "https://www.instagram.com/reel/DPTRshVDWYb/",
-        "source":
-        "Instagram",
-        "channel":
-        "amandatoryinfluencing",
-        "duration":
-        "0:14",
-        "thumbnail":
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjv5XanGJqQ0_VnpA9r5y2wxcBtHDy_kkWfviK-EIrVQL8Sw&s"
+        "title": "Folgers Classic Roast Coffee Review",
+        "link": "https://www.youtube.com/watch?v=5pT7s-TyPXw",
+        "source": "YouTube",
+        "channel": "Undisputed Chaos",
+        "duration": "9:55",
+        "thumbnail": "https://i.ytimg.com/vi/5pT7s-TyPXw/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3n3vbtISE5DrPjqPqzEL6J3ffRPYw",
+        "preview": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcS5Fy8GNpBzI_8TBcuB3SugmASeTLOGpZqKyg"
       },
       {
-        "title":
-        "@Folgers *CLASSIC ROAST* COFFEE REVIEW",
-        "link":
-        "https://www.youtube.com/watch?v=-GAb6lWGocE",
-        "source":
-        "YouTube",
-        "channel":
-        "COFFEE KING REVIEWS",
-        "duration":
-        "7:09",
-        "thumbnail":
-        "https://i.ytimg.com/vi/-GAb6lWGocE/mqdefault.jpg?sqp=-oaymwEGCMACELQB&rs=AMzJL3mEtiSbvVIFjlWTUmZum_oBgc-WsA",
-        "preview":
-        "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTLvB73YrsH-teYZsBP1qYdL2XqfTerBDe7PQ"
+        "title": "Experience the Flavor of Folgers Classic Roast Coffee",
+        "link": "https://www.instagram.com/reel/DPTRshVDWYb/",
+        "source": "Instagram",
+        "channel": "amandatoryinfluencing",
+        "duration": "0:14",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjv5XanGJqQ0_VnpA9r5y2wxcBtHDy_kkWfviK-EIrVQL8Sw&s"
       }
     ],
-    "discussions_and_forums":
-    [
+    "discussions_and_forums": [
       {
-        "title":
-        "[Beans] Folgers Classic Roast - Is it drinkable? : r/Coffee",
-        "link":
-        "https://www.reddit.com/r/Coffee/comments/544a6d/beans_folgers_classic_roast_is_it_drinkable/",
-        "source":
-        "Reddit",
-        "icon":
-        "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reddit.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-        "date":
-        "9 years ago",
-        "items":
-        [
+        "title": "[Beans] Folgers Classic Roast - Is it drinkable? : r/Coffee",
+        "link": "https://www.reddit.com/r/Coffee/comments/544a6d/beans_folgers_classic_roast_is_it_drinkable/",
+        "source": "Reddit",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reddit.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "date": "9 years ago",
+        "items": [
           {
-            "snippet":
-            "It doesn't have an oily mouthfeel, but it feels ``thicker'' than my typical beans.",
-            "link":
-            "https://www.reddit.com/r/Coffee/comments/544a6d/beans_folgers_classic_roast_is_it_drinkable/#:~:text=It%20doesn't%20have%20an%20oily%20mouthfeel%2C%20but%20it%20feels%20%60%60thicker''%20than%20my%20typical%20beans."
+            "snippet": "It doesn't have an oily mouthfeel, but it feels ``thicker'' than my typical beans.",
+            "link": "https://www.reddit.com/r/Coffee/comments/544a6d/beans_folgers_classic_roast_is_it_drinkable/#:~:text=It%20doesn't%20have%20an%20oily%20mouthfeel%2C%20but%20it%20feels%20%60%60thicker''%20than%20my%20typical%20beans."
           },
           {
-            "snippet":
-            "I found the resulting cup to be nutty and not bad, but bitter at the end none-the-less.",
-            "link":
-            "https://www.reddit.com/r/Coffee/comments/544a6d/beans_folgers_classic_roast_is_it_drinkable/#:~:text=I%20found%20the%20resulting%20cup%20to%20be,bad%2C%20but%20bitter%20at%20the%20end%20none%2Dthe%2Dless."
+            "snippet": "I found the resulting cup to be nutty and not bad, but bitter at the end none-the-less.",
+            "link": "https://www.reddit.com/r/Coffee/comments/544a6d/beans_folgers_classic_roast_is_it_drinkable/#:~:text=I%20found%20the%20resulting%20cup%20to%20be,bad%2C%20but%20bitter%20at%20the%20end%20none%2Dthe%2Dless."
           },
           {
-            "snippet":
-            "It does still taste a bit like old coffee, but it isn't as bitter or ``bark/twig'' tasting as yesterday.",
-            "link":
-            "https://www.reddit.com/r/Coffee/comments/544a6d/beans_folgers_classic_roast_is_it_drinkable/#:~:text=It%20does%20still%20taste%20a%20bit%20like,as%20bitter%20or%20%60%60bark/twig''%20tasting%20as%20yesterday."
+            "snippet": "It does still taste a bit like old coffee, but it isn't as bitter or ``bark/twig'' tasting as yesterday.",
+            "link": "https://www.reddit.com/r/Coffee/comments/544a6d/beans_folgers_classic_roast_is_it_drinkable/#:~:text=It%20does%20still%20taste%20a%20bit%20like,as%20bitter%20or%20%60%60bark/twig''%20tasting%20as%20yesterday."
           }
         ]
       },
       {
-        "title":
-        "Coffee Making Me Nauseous",
-        "link":
-        "https://www.coffeeforums.com/threads/coffee-making-me-nauseous.20725/",
-        "source":
-        "Coffee Forums",
-        "icon":
-        "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.coffeeforums.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-        "date":
-        "4 years ago"
+        "title": "Coffee Making Me Nauseous",
+        "link": "https://www.coffeeforums.com/threads/coffee-making-me-nauseous.20725/",
+        "source": "Coffee Forums",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.coffeeforums.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "date": "4 years ago"
       },
       {
-        "title":
-        "Viewing a thread - Folgers coffee recipe",
-        "link":
-        "https://talk.newagtalk.com/forums/thread-view.asp?tid=523232&DisplayType=flat&setCookie=1",
-        "source":
-        "AgTalk Home",
-        "icon":
-        "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://talk.newagtalk.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-        "date":
-        "10 years ago"
+        "title": "Viewing a thread - Folgers coffee recipe",
+        "link": "https://talk.newagtalk.com/forums/thread-view.asp?tid=523232&DisplayType=flat&setCookie=1",
+        "source": "AgTalk Home",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://talk.newagtalk.com&client=SHOPPING&size=16&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "date": "10 years ago"
       }
     ],
-    "more_options":
-    [
+    "more_options": [
       {
-        "title":
-        "Maxwell House Original Roast Ground Coffee",
-        "thumbnail":
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQH0NcNWzKe_mjPIBwUe6D-Q4FLqO-0z0xgV6epK7diJCLjS8VFz4haA_RaYhpJqyCjppz_IgDk5S8uFRZTU3LTCU0k5Z4uC9weyC1tYKA-Qno21MfQwQp1WA",
-        "price":
-        "$17.08",
-        "extracted_price":
-        17.08,
-        "original_price":
-        "$20",
-        "extracted_original_price":
-        20,
-        "reviews":
-        706,
-        "rating":
-        4.6,
-        "serpapi_link":
-        "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjE0NXFaN0NlS3U3bjVOb1BtcmpTOFFvIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTM3MjI0MjIwMDUxNzE0OTEyNTMiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxODEzMjM3OTczOTIyMDYyOTQ1NyIsImltYWdlRG9jaWQiOiIxNzQ4MzAwNzM5MDc3NDUxMjM3NCIsInJkcyI6IlBDXzkwNDM5NDg0NDM1MDgyNzgyNzd8UFJPRF9QQ185MDQzOTQ4NDQzNTA4Mjc4Mjc3IiwicXVlcnkiOiIrQ29mZmVlIiwiZ3BjaWQiOiI5MDQzOTQ4NDQzNTA4Mjc4Mjc3IiwibWlkIjoiNTc2NDYyNzU2OTQyMjE3MTg5IiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJwdmYiOm51bGx9"
+        "title": "Maxwell House Original Roast Ground Coffee",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQH0NcNWzKe_mjPIBwUe6D-Q4FLqO-0z0xgV6epK7diJCLjS8VFz4haA_RaYhpJqyCjppz_IgDk5S8uFRZTU3LTCU0k5Z4uC9weyC1tYKA-Qno21MfQwQp1WA",
+        "price": "$17.08",
+        "extracted_price": 17.08,
+        "original_price": "$20",
+        "extracted_original_price": 20,
+        "reviews": 706,
+        "rating": 4.6,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjE0NXFaN0NlS3U3bjVOb1BtcmpTOFFvIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTM3MjI0MjIwMDUxNzE0OTEyNTMiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxODEzMjM3OTczOTIyMDYyOTQ1NyIsImltYWdlRG9jaWQiOiIxNzQ4MzAwNzM5MDc3NDUxMjM3NCIsInJkcyI6IlBDXzkwNDM5NDg0NDM1MDgyNzgyNzd8UFJPRF9QQ185MDQzOTQ4NDQzNTA4Mjc4Mjc3IiwicXVlcnkiOiIrQ29mZmVlIiwiZ3BjaWQiOiI5MDQzOTQ4NDQzNTA4Mjc4Mjc3IiwibWlkIjoiNTc2NDYyNzU2OTQyMjE3MTg5IiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJwdmYiOm51bGx9"
       },
       {
-        "title":
-        "Great Value Classic Medium Roast Ground Coffee",
-        "thumbnail":
-        "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRCA-SrB9GKXnR61nTXgEXTdn6dNMRYGqAzU5OZv9V0YhiBBPJn2caZGHmSESZkqFspVNBXbhmO-YShu-M9LfKpZxWug8CtcqyAbWzc5tMzB4021rZCJluj1A",
-        "price":
-        "$5.44",
-        "extracted_price":
-        5.44,
-        "reviews":
-        2000,
-        "rating":
-        4.2,
-        "serpapi_link":
-        "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjE0NXFaN0NlS3U3bjVOb1BtcmpTOFFvIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNTk4MTYyMTg0NjgyNjY5MDYyNSIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE1ODU3OTU1ODk1NTAyNDU3NTcwIiwiaW1hZ2VEb2NpZCI6IjM1MDg3ODIwMjMxMDM2NDU3MjIiLCJyZHMiOiJQQ183NjI2OTE1NzcyNzQyNTMzODAwfFBST0RfUENfNzYyNjkxNTc3Mjc0MjUzMzgwMCIsInF1ZXJ5IjoiK0NvZmZlZSIsImdwY2lkIjoiNzYyNjkxNTc3Mjc0MjUzMzgwMCIsIm1pZCI6IjU3NjQ2MjQzOTU2ODQzMDczMCIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwicHZmIjpudWxsfQ%3D%3D"
+        "title": "Dunkin Donuts Ground Coffee Original Blend",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTTNALkR82DKDRexq3KYrU_1tFHR3rNBa8VD3Kn9PQxc7HpEe4vCHcJZfXNZcxga3vguqyRweSK0v7ccWS2EMD-O8rnBDiP7zrwSp8jRZ72hrJg3CJO2lnZ",
+        "price": "$11.61",
+        "extracted_price": 11.61,
+        "original_price": "$15",
+        "extracted_original_price": 15,
+        "reviews": 8000,
+        "rating": 4.6,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjE0NXFaN0NlS3U3bjVOb1BtcmpTOFFvIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTMxNDQ0MzkzNDMwODI3Nzc2MTAiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMzg0MjA2NTk0NjA2MjY2NTQyNiIsImltYWdlRG9jaWQiOiI4OTA5NTEyMjgxNzc0NTgwNTA2IiwicmRzIjoiUENfODQ4MTUyNzUwNTE0NDE5NDQwOHxQUk9EX1BDXzg0ODE1Mjc1MDUxNDQxOTQ0MDgiLCJxdWVyeSI6IitDb2ZmZWUiLCJncGNpZCI6Ijg0ODE1Mjc1MDUxNDQxOTQ0MDgiLCJtaWQiOiI1NzY0NjI0MjI5Njg0NDUxMjgiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsInB2ZiI6bnVsbH0%3D"
       },
       {
-        "title":
-        "Black Rifle Coffee Company Beyond Black",
-        "thumbnail":
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSsEctla0oybjcDpcNXQCR2QKyLUSgTRYXZAU75j-OSt63eXbl2RIk1RI85B0XQEaE3trFjqw1QPR6wBOfa-PmRfU-5ywNyryCiS4fcJ3uVeAH51zgzSZ5yig",
-        "price":
-        "$15.99",
-        "extracted_price":
-        15.99,
-        "reviews":
-        898,
-        "rating":
-        4.8,
-        "serpapi_link":
-        "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjE0NXFaN0NlS3U3bjVOb1BtcmpTOFFvIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMzAxNDUyMDI1MjM1ODE0NTA3MyIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE3NTY5MDM1MTc1OTkwMjU5MzcxIiwiaW1hZ2VEb2NpZCI6IjE2NzIwMzY2MDk4MTM4MjQwNDQxIiwicmRzIjoiUENfMTgzMDQ2NTQyMjg4NTM3MTcwOTF8UFJPRF9QQ18xODMwNDY1NDIyODg1MzcxNzA5MSIsInF1ZXJ5IjoiK0NvZmZlZSIsImdwY2lkIjoiMTgzMDQ2NTQyMjg4NTM3MTcwOTEiLCJtaWQiOiI1NzY0NjI4NTQ4MTYwMTQ5ODkiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsInB2ZiI6bnVsbH0%3D"
+        "title": "Bustelo Coffee Espresso",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR634XBMOb0DnNoglybvG5p6kWrm88OnNBorzUQVz01ZG_g8vraCfDMI9z1v2Ign1Ol-DnwnUxw8bR8qBgCmpndzIxPT9Li2nFYmlbSKxZZwchFvaXu1VZA",
+        "price": "$16.13",
+        "extracted_price": 16.13,
+        "original_price": "$26",
+        "extracted_original_price": 26,
+        "reviews": 7000,
+        "rating": 4.7,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjE0NXFaN0NlS3U3bjVOb1BtcmpTOFFvIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTc4MDE1NjkyNjkwMTUxMzI2MSIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE0MDgxNTg2NDU0MDY3NTc1NTk3IiwiaW1hZ2VEb2NpZCI6IjE4MjE5NzUwNDU3MDQ4OTIxODYzIiwicmRzIjoiUENfMzg3NDEyMDE5NDM2MjQ1NDk1fFBST0RfUENfMzg3NDEyMDE5NDM2MjQ1NDk1IiwicXVlcnkiOiIrQ29mZmVlIiwiZ3BjaWQiOiIzODc0MTIwMTk0MzYyNDU0OTUiLCJtaWQiOiI1NzY0NjI3NjQyNDk0NzU4MDAiLCJwdnQiOiJoZyIsInV1bGUiOm51bGwsInB2ZiI6bnVsbH0%3D"
       },
       {
-        "title":
-        "Illy Medium Roast Whole Bean Coffee",
-        "thumbnail":
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSn-Xg1i5t_mJtT-ptri5qHLS60aYQbc75GZpLxx3VHrsDYTtRiEE4gh6NXRe5IuvxH13J9jCBQIaelj5MMQrIywAOtGyHqbcYVUfko0IQNVtuG6nFLBo6h",
-        "price":
-        "$12.00",
-        "extracted_price":
-        12,
-        "original_price":
-        "$15",
-        "extracted_original_price":
-        15,
-        "reviews":
-        1000,
-        "rating":
-        4.7,
-        "serpapi_link":
-        "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjE0NXFaN0NlS3U3bjVOb1BtcmpTOFFvIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNTA4NTM1Mjc1NTUxNTEyMzE0OCIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjM3MDk0OTAyMzAyMDUzNzk1MDMiLCJpbWFnZURvY2lkIjoiNjM2MDYzMDMxNjcxMTExMzc5MSIsInJkcyI6IlBDXzg3Mjk5ODY5MjE1NzE5NzUzMDZ8UFJPRF9QQ184NzI5OTg2OTIxNTcxOTc1MzA2IiwicXVlcnkiOiIrQ29mZmVlIiwiZ3BjaWQiOiI4NzI5OTg2OTIxNTcxOTc1MzA2IiwibWlkIjoiNTc2NDYyNjEyMjgwMTMwNDgxIiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJwdmYiOm51bGx9"
+        "title": "Black Rifle Coffee Company Freedom Roast Ground Coffee",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSeDykR3ZJ2G-0ydo1BYE1v3tOeX50gSXv3iC7n5PTnBwlJV8b6ZcW6-FX-myLsZRrOm6Pjq5aj5ZTIa1oEWca0G6rup5XexeuVmdaHxU4bQyLQuKgnmeZo_g",
+        "price": "$15.99",
+        "extracted_price": 15.99,
+        "reviews": 867,
+        "rating": 4.8,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjE0NXFaN0NlS3U3bjVOb1BtcmpTOFFvIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNzU1MDA3ODk0Nzg1OTkyNTEzNSIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEyMTczOTQ1MTk2MDY5Nzk3OTk2IiwiaW1hZ2VEb2NpZCI6Ijc2NjQxMDUwMDc4NjY5MzMxNjIiLCJyZHMiOiJQQ184NjU3NDUzNjE3MzgxNzc2NjIzfFBST0RfUENfODY1NzQ1MzYxNzM4MTc3NjYyMyIsInF1ZXJ5IjoiK0NvZmZlZSIsImdwY2lkIjoiODY1NzQ1MzYxNzM4MTc3NjYyMyIsIm1pZCI6IjU3NjQ2MjQ3NzI5OTUwMTk4NyIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwicHZmIjpudWxsfQ%3D%3D"
       },
       {
-        "title":
-        "Maxwell House Master Blend Ground Coffee",
-        "thumbnail":
-        "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRo9xKYMXpuZC1Imz3-kO0xVBkqtlBqkBzOe8GjRc-By_4bxxJkiVPC1oj9MbBt44fM2MLTIAWCTmj8Rd_kXY01Eojw5o3-OwXLh4GuLKpbfHTfWMfRpdEpeQ",
-        "price":
-        "$6.99",
-        "extracted_price":
-        6.99,
-        "reviews":
-        1000,
-        "rating":
-        4.5,
-        "serpapi_link":
-        "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjE0NXFaN0NlS3U3bjVOb1BtcmpTOFFvIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNjA2MTE1MDI1MDY0MjgzMjM1MCIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjY4NDI4MTcyMDEwMTY3NjMyNDQiLCJpbWFnZURvY2lkIjoiNTQzNzYwMTM4OTQzNjk4ODAwIiwicmRzIjoiUENfOTEzMzQ1OTE0OTA0MzA4ODg1OHxQUk9EX1BDXzkxMzM0NTkxNDkwNDMwODg4NTgiLCJxdWVyeSI6IitDb2ZmZWUiLCJncGNpZCI6IjIwMTkxMjk2ODEyOTIwNzYwNyIsIm1pZCI6IjU3NjQ2MjYxMjI4MDEzMDQ4MSIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwicHZmIjpudWxsfQ%3D%3D"
+        "title": "Maxwell House 100% Colombian Ground Coffee",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT07daCuGM09lq1ARIHVRwoWVNiiakoSP-rhHQros1GecAmqftNKChYC6PxDi99AXxzObRLASeorUamJA96uQ-wMf6NmkgIXowKk7K3dGC9dFmnYM8dbG0ZwQ",
+        "price": "$17.99",
+        "extracted_price": 17.99,
+        "reviews": 2000,
+        "rating": 4.4,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjE0NXFaN0NlS3U3bjVOb1BtcmpTOFFvIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiODA2NzM0NjY0MTQ2MjYxNjY1MyIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE3MTU1NDY0MDEyMTg4NTgyMzY0IiwiaW1hZ2VEb2NpZCI6IjkwOTc1NTM3MjcwNzcyMDk3NjgiLCJyZHMiOiJQQ18zNTY4MjUzMTc4MTYxMTUwNDMyfFBST0RfUENfMzU2ODI1MzE3ODE2MTE1MDQzMiIsInF1ZXJ5IjoiK0NvZmZlZSIsImdwY2lkIjoiMzU2ODI1MzE3ODE2MTE1MDQzMiIsIm1pZCI6IjU3NjQ2Mjc3NTcwODc5MDQ5MSIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwicHZmIjpudWxsfQ%3D%3D"
       },
       {
-        "title":
-        "Bustelo Coffee Espresso",
-        "thumbnail":
-        "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR634XBMOb0DnNoglybvG5p6kWrm88OnNBorzUQVz01ZG_g8vraCfDMI9z1v2Ign1Ol-DnwnUxw8bR8qBgCmpndzIxPT9Li2nFYmlbSKxZZwchFvaXu1VZA",
-        "price":
-        "$5.99",
-        "extracted_price":
-        5.99,
-        "original_price":
-        "$9",
-        "extracted_original_price":
-        9,
-        "reviews":
-        7000,
-        "rating":
-        4.7,
-        "serpapi_link":
-        "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjE0NXFaN0NlS3U3bjVOb1BtcmpTOFFvIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTc4MDE1NjkyNjkwMTUxMzI2MSIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjI5MTg1Nzk1OTI5MzkzMTQ1NSIsImltYWdlRG9jaWQiOiIxODIxOTc1MDQ1NzA0ODkyMTg2MyIsInJkcyI6IlBDXzM4NzQxMjAxOTQzNjI0NTQ5NXxQUk9EX1BDXzM4NzQxMjAxOTQzNjI0NTQ5NSIsInF1ZXJ5IjoiK0NvZmZlZSIsImdwY2lkIjoiMzg3NDEyMDE5NDM2MjQ1NDk1IiwibWlkIjoiNTc2NDYyNzY0MjQ5NDc1ODAwIiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJwdmYiOm51bGx9"
+        "title": "Nescafe Taster's Choice House Blend Instant Coffee",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRO04SfWToFqpclHSPqh1VGatrbZPbCG_sN4Rh9lBA4yof87VVFohJz0VrbjeHy9kJp1_ElJgrlBHUpwj69nI0M_aLVaWnnUCqfzXXGVDgSM9JDC05ck2Q0tg",
+        "price": "$13.39",
+        "extracted_price": 13.39,
+        "reviews": 7000,
+        "rating": 4.6,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjE0NXFaN0NlS3U3bjVOb1BtcmpTOFFvIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTEyNjI4MzEyMjgxODMzODk1MTciLCJoZWFkbGluZU9mZmVyRG9jaWQiOiI1NzUwOTk1NTkxMzExMDg3OTE4IiwiaW1hZ2VEb2NpZCI6IjY5NjM5NDUxMjQ5NDc4MjAyMTUiLCJyZHMiOiJQQ18xMTQ1MjgwOTY3MzQxMzcxMTYxNnxQUk9EX1BDXzExNDUyODA5NjczNDEzNzExNjE2IiwicXVlcnkiOiIrQ29mZmVlIiwiZ3BjaWQiOiIxMTQ1MjgwOTY3MzQxMzcxMTYxNiIsIm1pZCI6IjU3NjQ2Mjg2Mzc1MjM5NDEyOSIsInB2dCI6ImhnIiwidXVsZSI6bnVsbCwicHZmIjpudWxsfQ%3D%3D"
       }
     ],
-    "variants":
-    [
+    "variants": [
       {
-        "title":
-        "Size",
-        "items":
-        [
+        "title": "Size",
+        "items": [
           {
-            "name":
-            "Any Size",
-            "serpapi_link":
-            "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjE0NXFaN0NlS3U3bjVOb1BtcmpTOFFvIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTY5MTQ4Nzc2MjUyODA5Nzc4NjUiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIzMjM4MjI0ODQ0NjI0OTEyMTY5IiwiaW1hZ2VEb2NpZCI6IjQ3Njc0OTkxNTkwNjMyNzkxNCIsInJkcyI6IlBDXzMyNDU0NzY0MDA4MzM1NTE5NDh8UFJPRF9QQ18zMjQ1NDc2NDAwODMzNTUxOTQ4IiwicXVlcnkiOiIrQ29mZmVlIiwiZ3BjaWQiOiIzMjQ1NDc2NDAwODMzNTUxOTQ4IiwibWlkIjoiNTc2NDYyNjEyMjgwMTMwNDgxIiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJwdmYiOiIifQ%3D%3D"
+            "name": "Any Size",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjE0NXFaN0NlS3U3bjVOb1BtcmpTOFFvIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTY5MTQ4Nzc2MjUyODA5Nzc4NjUiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIzMjM4MjI0ODQ0NjI0OTEyMTY5IiwiaW1hZ2VEb2NpZCI6IjQ3Njc0OTkxNTkwNjMyNzkxNCIsInJkcyI6IlBDXzMyNDU0NzY0MDA4MzM1NTE5NDh8UFJPRF9QQ18zMjQ1NDc2NDAwODMzNTUxOTQ4IiwicXVlcnkiOiIrQ29mZmVlIiwiZ3BjaWQiOiIzMjQ1NDc2NDAwODMzNTUxOTQ4IiwibWlkIjoiNTc2NDYyNjEyMjgwMTMwNDgxIiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJwdmYiOiIifQ%3D%3D"
           },
           {
-            "name":
-            "0.9 oz",
-            "available":
-            true,
-            "serpapi_link":
-            "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjE0NXFaN0NlS3U3bjVOb1BtcmpTOFFvIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTY5MTQ4Nzc2MjUyODA5Nzc4NjUiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIzMjM4MjI0ODQ0NjI0OTEyMTY5IiwiaW1hZ2VEb2NpZCI6IjQ3Njc0OTkxNTkwNjMyNzkxNCIsInJkcyI6IlBDXzMyNDU0NzY0MDA4MzM1NTE5NDh8UFJPRF9QQ18zMjQ1NDc2NDAwODMzNTUxOTQ4IiwicXVlcnkiOiIrQ29mZmVlIiwiZ3BjaWQiOiIzMjQ1NDc2NDAwODMzNTUxOTQ4IiwibWlkIjoiNTc2NDYyNjEyMjgwMTMwNDgxIiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJwdmYiOiJFZzBJX3B4bEdRQUFBT0I5SUpvXyJ9"
+            "name": "0.9 oz",
+            "available": true,
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjE0NXFaN0NlS3U3bjVOb1BtcmpTOFFvIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTY5MTQ4Nzc2MjUyODA5Nzc4NjUiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIzMjM4MjI0ODQ0NjI0OTEyMTY5IiwiaW1hZ2VEb2NpZCI6IjQ3Njc0OTkxNTkwNjMyNzkxNCIsInJkcyI6IlBDXzMyNDU0NzY0MDA4MzM1NTE5NDh8UFJPRF9QQ18zMjQ1NDc2NDAwODMzNTUxOTQ4IiwicXVlcnkiOiIrQ29mZmVlIiwiZ3BjaWQiOiIzMjQ1NDc2NDAwODMzNTUxOTQ4IiwibWlkIjoiNTc2NDYyNjEyMjgwMTMwNDgxIiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJwdmYiOiJFZzBJX3B4bEdRQUFBT0I5SUpvXyJ9"
           },
           {
-            "name":
-            "1.5 oz",
-            "available":
-            true,
-            "serpapi_link":
-            "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjE0NXFaN0NlS3U3bjVOb1BtcmpTOFFvIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTY5MTQ4Nzc2MjUyODA5Nzc4NjUiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIzMjM4MjI0ODQ0NjI0OTEyMTY5IiwiaW1hZ2VEb2NpZCI6IjQ3Njc0OTkxNTkwNjMyNzkxNCIsInJkcyI6IlBDXzMyNDU0NzY0MDA4MzM1NTE5NDh8UFJPRF9QQ18zMjQ1NDc2NDAwODMzNTUxOTQ4IiwicXVlcnkiOiIrQ29mZmVlIiwiZ3BjaWQiOiIzMjQ1NDc2NDAwODMzNTUxOTQ4IiwibWlkIjoiNTc2NDYyNjEyMjgwMTMwNDgxIiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJwdmYiOiJFZzBJX3B4bEdRQUFBRUMteGFVXyJ9"
+            "name": "1.5 oz",
+            "available": true,
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjE0NXFaN0NlS3U3bjVOb1BtcmpTOFFvIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTY5MTQ4Nzc2MjUyODA5Nzc4NjUiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIzMjM4MjI0ODQ0NjI0OTEyMTY5IiwiaW1hZ2VEb2NpZCI6IjQ3Njc0OTkxNTkwNjMyNzkxNCIsInJkcyI6IlBDXzMyNDU0NzY0MDA4MzM1NTE5NDh8UFJPRF9QQ18zMjQ1NDc2NDAwODMzNTUxOTQ4IiwicXVlcnkiOiIrQ29mZmVlIiwiZ3BjaWQiOiIzMjQ1NDc2NDAwODMzNTUxOTQ4IiwibWlkIjoiNTc2NDYyNjEyMjgwMTMwNDgxIiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJwdmYiOiJFZzBJX3B4bEdRQUFBRUMteGFVXyJ9"
           },
           {
-            "name":
-            "2 oz",
-            "available":
-            true,
-            "serpapi_link":
-            "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjE0NXFaN0NlS3U3bjVOb1BtcmpTOFFvIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTY5MTQ4Nzc2MjUyODA5Nzc4NjUiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIzMjM4MjI0ODQ0NjI0OTEyMTY5IiwiaW1hZ2VEb2NpZCI6IjQ3Njc0OTkxNTkwNjMyNzkxNCIsInJkcyI6IlBDXzMyNDU0NzY0MDA4MzM1NTE5NDh8UFJPRF9QQ18zMjQ1NDc2NDAwODMzNTUxOTQ4IiwicXVlcnkiOiIrQ29mZmVlIiwiZ3BjaWQiOiIzMjQ1NDc2NDAwODMzNTUxOTQ4IiwibWlkIjoiNTc2NDYyNjEyMjgwMTMwNDgxIiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJwdmYiOiJFZzBJX3B4bEdRQUFBRUNvQjYwXyJ9"
+            "name": "2 oz",
+            "available": true,
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjE0NXFaN0NlS3U3bjVOb1BtcmpTOFFvIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTY5MTQ4Nzc2MjUyODA5Nzc4NjUiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIzMjM4MjI0ODQ0NjI0OTEyMTY5IiwiaW1hZ2VEb2NpZCI6IjQ3Njc0OTkxNTkwNjMyNzkxNCIsInJkcyI6IlBDXzMyNDU0NzY0MDA4MzM1NTE5NDh8UFJPRF9QQ18zMjQ1NDc2NDAwODMzNTUxOTQ4IiwicXVlcnkiOiIrQ29mZmVlIiwiZ3BjaWQiOiIzMjQ1NDc2NDAwODMzNTUxOTQ4IiwibWlkIjoiNTc2NDYyNjEyMjgwMTMwNDgxIiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJwdmYiOiJFZzBJX3B4bEdRQUFBRUNvQjYwXyJ9"
           },
           {
-            "name":
-            "2.7 oz",
-            "available":
-            true,
-            "serpapi_link":
-            "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjE0NXFaN0NlS3U3bjVOb1BtcmpTOFFvIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTY5MTQ4Nzc2MjUyODA5Nzc4NjUiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIzMjM4MjI0ODQ0NjI0OTEyMTY5IiwiaW1hZ2VEb2NpZCI6IjQ3Njc0OTkxNTkwNjMyNzkxNCIsInJkcyI6IlBDXzMyNDU0NzY0MDA4MzM1NTE5NDh8UFJPRF9QQ18zMjQ1NDc2NDAwODMzNTUxOTQ4IiwicXVlcnkiOiIrQ29mZmVlIiwiZ3BjaWQiOiIzMjQ1NDc2NDAwODMzNTUxOTQ4IiwibWlkIjoiNTc2NDYyNjEyMjgwMTMwNDgxIiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJwdmYiOiJFZzBJX3B4bEdRQUFBR0JlbUxNXyJ9"
+            "name": "2.7 oz",
+            "available": true,
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjE0NXFaN0NlS3U3bjVOb1BtcmpTOFFvIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTY5MTQ4Nzc2MjUyODA5Nzc4NjUiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIzMjM4MjI0ODQ0NjI0OTEyMTY5IiwiaW1hZ2VEb2NpZCI6IjQ3Njc0OTkxNTkwNjMyNzkxNCIsInJkcyI6IlBDXzMyNDU0NzY0MDA4MzM1NTE5NDh8UFJPRF9QQ18zMjQ1NDc2NDAwODMzNTUxOTQ4IiwicXVlcnkiOiIrQ29mZmVlIiwiZ3BjaWQiOiIzMjQ1NDc2NDAwODMzNTUxOTQ4IiwibWlkIjoiNTc2NDYyNjEyMjgwMTMwNDgxIiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJwdmYiOiJFZzBJX3B4bEdRQUFBR0JlbUxNXyJ9"
           },
           {
-            "name":
-            "5.4 oz",
-            "available":
-            true,
-            "serpapi_link":
-            "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjE0NXFaN0NlS3U3bjVOb1BtcmpTOFFvIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTY5MTQ4Nzc2MjUyODA5Nzc4NjUiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIzMjM4MjI0ODQ0NjI0OTEyMTY5IiwiaW1hZ2VEb2NpZCI6IjQ3Njc0OTkxNTkwNjMyNzkxNCIsInJkcyI6IlBDXzMyNDU0NzY0MDA4MzM1NTE5NDh8UFJPRF9QQ18zMjQ1NDc2NDAwODMzNTUxOTQ4IiwicXVlcnkiOiIrQ29mZmVlIiwiZ3BjaWQiOiIzMjQ1NDc2NDAwODMzNTUxOTQ4IiwibWlkIjoiNTc2NDYyNjEyMjgwMTMwNDgxIiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJwdmYiOiJFZzBJX3B4bEdRQUFBRUJlbU1NXyJ9"
+            "name": "5.4 oz",
+            "available": true,
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjE0NXFaN0NlS3U3bjVOb1BtcmpTOFFvIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTY5MTQ4Nzc2MjUyODA5Nzc4NjUiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIzMjM4MjI0ODQ0NjI0OTEyMTY5IiwiaW1hZ2VEb2NpZCI6IjQ3Njc0OTkxNTkwNjMyNzkxNCIsInJkcyI6IlBDXzMyNDU0NzY0MDA4MzM1NTE5NDh8UFJPRF9QQ18zMjQ1NDc2NDAwODMzNTUxOTQ4IiwicXVlcnkiOiIrQ29mZmVlIiwiZ3BjaWQiOiIzMjQ1NDc2NDAwODMzNTUxOTQ4IiwibWlkIjoiNTc2NDYyNjEyMjgwMTMwNDgxIiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJwdmYiOiJFZzBJX3B4bEdRQUFBRUJlbU1NXyJ9"
           },
           {
-            "name":
-            "9.6 oz",
-            "selected":
-            true,
-            "available":
-            true,
-            "serpapi_link":
-            "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjE0NXFaN0NlS3U3bjVOb1BtcmpTOFFvIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTY5MTQ4Nzc2MjUyODA5Nzc4NjUiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIzMjM4MjI0ODQ0NjI0OTEyMTY5IiwiaW1hZ2VEb2NpZCI6IjQ3Njc0OTkxNTkwNjMyNzkxNCIsInJkcyI6IlBDXzMyNDU0NzY0MDA4MzM1NTE5NDh8UFJPRF9QQ18zMjQ1NDc2NDAwODMzNTUxOTQ4IiwicXVlcnkiOiIrQ29mZmVlIiwiZ3BjaWQiOiIzMjQ1NDc2NDAwODMzNTUxOTQ4IiwibWlkIjoiNTc2NDYyNjEyMjgwMTMwNDgxIiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJwdmYiOiIifQ%3D%3D"
+            "name": "9.6 oz",
+            "selected": true,
+            "available": true,
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjE0NXFaN0NlS3U3bjVOb1BtcmpTOFFvIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTY5MTQ4Nzc2MjUyODA5Nzc4NjUiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIzMjM4MjI0ODQ0NjI0OTEyMTY5IiwiaW1hZ2VEb2NpZCI6IjQ3Njc0OTkxNTkwNjMyNzkxNCIsInJkcyI6IlBDXzMyNDU0NzY0MDA4MzM1NTE5NDh8UFJPRF9QQ18zMjQ1NDc2NDAwODMzNTUxOTQ4IiwicXVlcnkiOiIrQ29mZmVlIiwiZ3BjaWQiOiIzMjQ1NDc2NDAwODMzNTUxOTQ4IiwibWlkIjoiNTc2NDYyNjEyMjgwMTMwNDgxIiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJwdmYiOiIifQ%3D%3D"
           },
           {
-            "name":
-            "11.3 oz",
-            "available":
-            true,
-            "serpapi_link":
-            "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjE0NXFaN0NlS3U3bjVOb1BtcmpTOFFvIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTY5MTQ4Nzc2MjUyODA5Nzc4NjUiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIzMjM4MjI0ODQ0NjI0OTEyMTY5IiwiaW1hZ2VEb2NpZCI6IjQ3Njc0OTkxNTkwNjMyNzkxNCIsInJkcyI6IlBDXzMyNDU0NzY0MDA4MzM1NTE5NDh8UFJPRF9QQ18zMjQ1NDc2NDAwODMzNTUxOTQ4IiwicXVlcnkiOiIrQ29mZmVlIiwiZ3BjaWQiOiIzMjQ1NDc2NDAwODMzNTUxOTQ4IiwibWlkIjoiNTc2NDYyNjEyMjgwMTMwNDgxIiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJwdmYiOiJFZzBJX3B4bEdRQUFBS0NiZ05RXyJ9"
+            "name": "11.3 oz",
+            "available": true,
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjE0NXFaN0NlS3U3bjVOb1BtcmpTOFFvIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTY5MTQ4Nzc2MjUyODA5Nzc4NjUiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIzMjM4MjI0ODQ0NjI0OTEyMTY5IiwiaW1hZ2VEb2NpZCI6IjQ3Njc0OTkxNTkwNjMyNzkxNCIsInJkcyI6IlBDXzMyNDU0NzY0MDA4MzM1NTE5NDh8UFJPRF9QQ18zMjQ1NDc2NDAwODMzNTUxOTQ4IiwicXVlcnkiOiIrQ29mZmVlIiwiZ3BjaWQiOiIzMjQ1NDc2NDAwODMzNTUxOTQ4IiwibWlkIjoiNTc2NDYyNjEyMjgwMTMwNDgxIiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJwdmYiOiJFZzBJX3B4bEdRQUFBS0NiZ05RXyJ9"
           },
           {
-            "name":
-            "1.2 lb",
-            "available":
-            true,
-            "serpapi_link":
-            "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjE0NXFaN0NlS3U3bjVOb1BtcmpTOFFvIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTY5MTQ4Nzc2MjUyODA5Nzc4NjUiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIzMjM4MjI0ODQ0NjI0OTEyMTY5IiwiaW1hZ2VEb2NpZCI6IjQ3Njc0OTkxNTkwNjMyNzkxNCIsInJkcyI6IlBDXzMyNDU0NzY0MDA4MzM1NTE5NDh8UFJPRF9QQ18zMjQ1NDc2NDAwODMzNTUxOTQ4IiwicXVlcnkiOiIrQ29mZmVlIiwiZ3BjaWQiOiIzMjQ1NDc2NDAwODMzNTUxOTQ4IiwibWlkIjoiNTc2NDYyNjEyMjgwMTMwNDgxIiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJwdmYiOiJFZzBJX3B4bEdRQUFBSUQtYXVFXyJ9"
+            "name": "1.2 lb",
+            "available": true,
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjE0NXFaN0NlS3U3bjVOb1BtcmpTOFFvIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTY5MTQ4Nzc2MjUyODA5Nzc4NjUiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIzMjM4MjI0ODQ0NjI0OTEyMTY5IiwiaW1hZ2VEb2NpZCI6IjQ3Njc0OTkxNTkwNjMyNzkxNCIsInJkcyI6IlBDXzMyNDU0NzY0MDA4MzM1NTE5NDh8UFJPRF9QQ18zMjQ1NDc2NDAwODMzNTUxOTQ4IiwicXVlcnkiOiIrQ29mZmVlIiwiZ3BjaWQiOiIzMjQ1NDc2NDAwODMzNTUxOTQ4IiwibWlkIjoiNTc2NDYyNjEyMjgwMTMwNDgxIiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJwdmYiOiJFZzBJX3B4bEdRQUFBSUQtYXVFXyJ9"
           },
           {
-            "name":
-            "1.41 lb",
-            "available":
-            true,
-            "serpapi_link":
-            "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjE0NXFaN0NlS3U3bjVOb1BtcmpTOFFvIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTY5MTQ4Nzc2MjUyODA5Nzc4NjUiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIzMjM4MjI0ODQ0NjI0OTEyMTY5IiwiaW1hZ2VEb2NpZCI6IjQ3Njc0OTkxNTkwNjMyNzkxNCIsInJkcyI6IlBDXzMyNDU0NzY0MDA4MzM1NTE5NDh8UFJPRF9QQ18zMjQ1NDc2NDAwODMzNTUxOTQ4IiwicXVlcnkiOiIrQ29mZmVlIiwiZ3BjaWQiOiIzMjQ1NDc2NDAwODMzNTUxOTQ4IiwibWlkIjoiNTc2NDYyNjEyMjgwMTMwNDgxIiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJwdmYiOiJFZzBJX3B4bEdRQUFBS0NiZ09RXyJ9"
+            "name": "1.41 lb",
+            "available": true,
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjE0NXFaN0NlS3U3bjVOb1BtcmpTOFFvIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTY5MTQ4Nzc2MjUyODA5Nzc4NjUiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIzMjM4MjI0ODQ0NjI0OTEyMTY5IiwiaW1hZ2VEb2NpZCI6IjQ3Njc0OTkxNTkwNjMyNzkxNCIsInJkcyI6IlBDXzMyNDU0NzY0MDA4MzM1NTE5NDh8UFJPRF9QQ18zMjQ1NDc2NDAwODMzNTUxOTQ4IiwicXVlcnkiOiIrQ29mZmVlIiwiZ3BjaWQiOiIzMjQ1NDc2NDAwODMzNTUxOTQ4IiwibWlkIjoiNTc2NDYyNjEyMjgwMTMwNDgxIiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJwdmYiOiJFZzBJX3B4bEdRQUFBS0NiZ09RXyJ9"
           },
           {
-            "name":
-            "1.62 lb",
-            "available":
-            true,
-            "serpapi_link":
-            "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjE0NXFaN0NlS3U3bjVOb1BtcmpTOFFvIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTY5MTQ4Nzc2MjUyODA5Nzc4NjUiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIzMjM4MjI0ODQ0NjI0OTEyMTY5IiwiaW1hZ2VEb2NpZCI6IjQ3Njc0OTkxNTkwNjMyNzkxNCIsInJkcyI6IlBDXzMyNDU0NzY0MDA4MzM1NTE5NDh8UFJPRF9QQ18zMjQ1NDc2NDAwODMzNTUxOTQ4IiwicXVlcnkiOiIrQ29mZmVlIiwiZ3BjaWQiOiIzMjQ1NDc2NDAwODMzNTUxOTQ4IiwibWlkIjoiNTc2NDYyNjEyMjgwMTMwNDgxIiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJwdmYiOiJFZzBJX3B4bEdRQUFBRURfZnVjXyJ9"
+            "name": "1.62 lb",
+            "available": true,
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjE0NXFaN0NlS3U3bjVOb1BtcmpTOFFvIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTY5MTQ4Nzc2MjUyODA5Nzc4NjUiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIzMjM4MjI0ODQ0NjI0OTEyMTY5IiwiaW1hZ2VEb2NpZCI6IjQ3Njc0OTkxNTkwNjMyNzkxNCIsInJkcyI6IlBDXzMyNDU0NzY0MDA4MzM1NTE5NDh8UFJPRF9QQ18zMjQ1NDc2NDAwODMzNTUxOTQ4IiwicXVlcnkiOiIrQ29mZmVlIiwiZ3BjaWQiOiIzMjQ1NDc2NDAwODMzNTUxOTQ4IiwibWlkIjoiNTc2NDYyNjEyMjgwMTMwNDgxIiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJwdmYiOiJFZzBJX3B4bEdRQUFBRURfZnVjXyJ9"
           },
           {
-            "name":
-            "1.91 lb",
-            "available":
-            true,
-            "serpapi_link":
-            "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjE0NXFaN0NlS3U3bjVOb1BtcmpTOFFvIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTY5MTQ4Nzc2MjUyODA5Nzc4NjUiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIzMjM4MjI0ODQ0NjI0OTEyMTY5IiwiaW1hZ2VEb2NpZCI6IjQ3Njc0OTkxNTkwNjMyNzkxNCIsInJkcyI6IlBDXzMyNDU0NzY0MDA4MzM1NTE5NDh8UFJPRF9QQ18zMjQ1NDc2NDAwODMzNTUxOTQ4IiwicXVlcnkiOiIrQ29mZmVlIiwiZ3BjaWQiOiIzMjQ1NDc2NDAwODMzNTUxOTQ4IiwibWlkIjoiNTc2NDYyNjEyMjgwMTMwNDgxIiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJwdmYiOiJFZzBJX3B4bEdRQUFBSUJNcS1zXyJ9"
+            "name": "1.91 lb",
+            "available": true,
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjE0NXFaN0NlS3U3bjVOb1BtcmpTOFFvIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTY5MTQ4Nzc2MjUyODA5Nzc4NjUiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIzMjM4MjI0ODQ0NjI0OTEyMTY5IiwiaW1hZ2VEb2NpZCI6IjQ3Njc0OTkxNTkwNjMyNzkxNCIsInJkcyI6IlBDXzMyNDU0NzY0MDA4MzM1NTE5NDh8UFJPRF9QQ18zMjQ1NDc2NDAwODMzNTUxOTQ4IiwicXVlcnkiOiIrQ29mZmVlIiwiZ3BjaWQiOiIzMjQ1NDc2NDAwODMzNTUxOTQ4IiwibWlkIjoiNTc2NDYyNjEyMjgwMTMwNDgxIiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJwdmYiOiJFZzBJX3B4bEdRQUFBSUJNcS1zXyJ9"
           },
           {
-            "name":
-            "2.11 lb",
-            "available":
-            true,
-            "serpapi_link":
-            "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjE0NXFaN0NlS3U3bjVOb1BtcmpTOFFvIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTY5MTQ4Nzc2MjUyODA5Nzc4NjUiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIzMjM4MjI0ODQ0NjI0OTEyMTY5IiwiaW1hZ2VEb2NpZCI6IjQ3Njc0OTkxNTkwNjMyNzkxNCIsInJkcyI6IlBDXzMyNDU0NzY0MDA4MzM1NTE5NDh8UFJPRF9QQ18zMjQ1NDc2NDAwODMzNTUxOTQ4IiwicXVlcnkiOiIrQ29mZmVlIiwiZ3BjaWQiOiIzMjQ1NDc2NDAwODMzNTUxOTQ4IiwibWlkIjoiNTc2NDYyNjEyMjgwMTMwNDgxIiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJwdmYiOiJFZzBJX3B4bEdRQUFBTUIya3U0XyJ9"
+            "name": "2.11 lb",
+            "available": true,
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjE0NXFaN0NlS3U3bjVOb1BtcmpTOFFvIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTY5MTQ4Nzc2MjUyODA5Nzc4NjUiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIzMjM4MjI0ODQ0NjI0OTEyMTY5IiwiaW1hZ2VEb2NpZCI6IjQ3Njc0OTkxNTkwNjMyNzkxNCIsInJkcyI6IlBDXzMyNDU0NzY0MDA4MzM1NTE5NDh8UFJPRF9QQ18zMjQ1NDc2NDAwODMzNTUxOTQ4IiwicXVlcnkiOiIrQ29mZmVlIiwiZ3BjaWQiOiIzMjQ1NDc2NDAwODMzNTUxOTQ4IiwibWlkIjoiNTc2NDYyNjEyMjgwMTMwNDgxIiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJwdmYiOiJFZzBJX3B4bEdRQUFBTUIya3U0XyJ9"
           },
           {
-            "name":
-            "2.4 lb",
-            "available":
-            true,
-            "serpapi_link":
-            "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjE0NXFaN0NlS3U3bjVOb1BtcmpTOFFvIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTY5MTQ4Nzc2MjUyODA5Nzc4NjUiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIzMjM4MjI0ODQ0NjI0OTEyMTY5IiwiaW1hZ2VEb2NpZCI6IjQ3Njc0OTkxNTkwNjMyNzkxNCIsInJkcyI6IlBDXzMyNDU0NzY0MDA4MzM1NTE5NDh8UFJPRF9QQ18zMjQ1NDc2NDAwODMzNTUxOTQ4IiwicXVlcnkiOiIrQ29mZmVlIiwiZ3BjaWQiOiIzMjQ1NDc2NDAwODMzNTUxOTQ4IiwibWlkIjoiNTc2NDYyNjEyMjgwMTMwNDgxIiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJwdmYiOiJFZzBJX3B4bEdRQUFBS0QtYXZFXyJ9"
+            "name": "2.12 lb",
+            "available": true,
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjE0NXFaN0NlS3U3bjVOb1BtcmpTOFFvIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTY5MTQ4Nzc2MjUyODA5Nzc4NjUiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIzMjM4MjI0ODQ0NjI0OTEyMTY5IiwiaW1hZ2VEb2NpZCI6IjQ3Njc0OTkxNTkwNjMyNzkxNCIsInJkcyI6IlBDXzMyNDU0NzY0MDA4MzM1NTE5NDh8UFJPRF9QQ18zMjQ1NDc2NDAwODMzNTUxOTQ4IiwicXVlcnkiOiIrQ29mZmVlIiwiZ3BjaWQiOiIzMjQ1NDc2NDAwODMzNTUxOTQ4IiwibWlkIjoiNTc2NDYyNjEyMjgwMTMwNDgxIiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJwdmYiOiJFZzBJX3B4bEdRQUFBR0Rwd080XyJ9"
           },
           {
-            "name":
-            "2.44 lb",
-            "available":
-            true,
-            "serpapi_link":
-            "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjE0NXFaN0NlS3U3bjVOb1BtcmpTOFFvIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTY5MTQ4Nzc2MjUyODA5Nzc4NjUiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIzMjM4MjI0ODQ0NjI0OTEyMTY5IiwiaW1hZ2VEb2NpZCI6IjQ3Njc0OTkxNTkwNjMyNzkxNCIsInJkcyI6IlBDXzMyNDU0NzY0MDA4MzM1NTE5NDh8UFJPRF9QQ18zMjQ1NDc2NDAwODMzNTUxOTQ4IiwicXVlcnkiOiIrQ29mZmVlIiwiZ3BjaWQiOiIzMjQ1NDc2NDAwODMzNTUxOTQ4IiwibWlkIjoiNTc2NDYyNjEyMjgwMTMwNDgxIiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJwdmYiOiJFZzBJX3B4bEdRQUFBSUNxc1BFXyJ9"
+            "name": "2.4 lb",
+            "available": true,
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjE0NXFaN0NlS3U3bjVOb1BtcmpTOFFvIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTY5MTQ4Nzc2MjUyODA5Nzc4NjUiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIzMjM4MjI0ODQ0NjI0OTEyMTY5IiwiaW1hZ2VEb2NpZCI6IjQ3Njc0OTkxNTkwNjMyNzkxNCIsInJkcyI6IlBDXzMyNDU0NzY0MDA4MzM1NTE5NDh8UFJPRF9QQ18zMjQ1NDc2NDAwODMzNTUxOTQ4IiwicXVlcnkiOiIrQ29mZmVlIiwiZ3BjaWQiOiIzMjQ1NDc2NDAwODMzNTUxOTQ4IiwibWlkIjoiNTc2NDYyNjEyMjgwMTMwNDgxIiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJwdmYiOiJFZzBJX3B4bEdRQUFBS0QtYXZFXyJ9"
           },
           {
-            "name":
-            "2.52 lb",
-            "available":
-            true,
-            "serpapi_link":
-            "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjE0NXFaN0NlS3U3bjVOb1BtcmpTOFFvIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTY5MTQ4Nzc2MjUyODA5Nzc4NjUiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIzMjM4MjI0ODQ0NjI0OTEyMTY5IiwiaW1hZ2VEb2NpZCI6IjQ3Njc0OTkxNTkwNjMyNzkxNCIsInJkcyI6IlBDXzMyNDU0NzY0MDA4MzM1NTE5NDh8UFJPRF9QQ18zMjQ1NDc2NDAwODMzNTUxOTQ4IiwicXVlcnkiOiIrQ29mZmVlIiwiZ3BjaWQiOiIzMjQ1NDc2NDAwODMzNTUxOTQ4IiwibWlkIjoiNTc2NDYyNjEyMjgwMTMwNDgxIiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJwdmYiOiJFZzBJX3B4bEdRQUFBRUNmUl9JXyJ9"
+            "name": "2.52 lb",
+            "available": true,
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjE0NXFaN0NlS3U3bjVOb1BtcmpTOFFvIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTY5MTQ4Nzc2MjUyODA5Nzc4NjUiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIzMjM4MjI0ODQ0NjI0OTEyMTY5IiwiaW1hZ2VEb2NpZCI6IjQ3Njc0OTkxNTkwNjMyNzkxNCIsInJkcyI6IlBDXzMyNDU0NzY0MDA4MzM1NTE5NDh8UFJPRF9QQ18zMjQ1NDc2NDAwODMzNTUxOTQ4IiwicXVlcnkiOiIrQ29mZmVlIiwiZ3BjaWQiOiIzMjQ1NDc2NDAwODMzNTUxOTQ4IiwibWlkIjoiNTc2NDYyNjEyMjgwMTMwNDgxIiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJwdmYiOiJFZzBJX3B4bEdRQUFBRUNmUl9JXyJ9"
           },
           {
-            "name":
-            "2.72 lb",
-            "available":
-            true,
-            "serpapi_link":
-            "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjE0NXFaN0NlS3U3bjVOb1BtcmpTOFFvIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTY5MTQ4Nzc2MjUyODA5Nzc4NjUiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIzMjM4MjI0ODQ0NjI0OTEyMTY5IiwiaW1hZ2VEb2NpZCI6IjQ3Njc0OTkxNTkwNjMyNzkxNCIsInJkcyI6IlBDXzMyNDU0NzY0MDA4MzM1NTE5NDh8UFJPRF9QQ18zMjQ1NDc2NDAwODMzNTUxOTQ4IiwicXVlcnkiOiIrQ29mZmVlIiwiZ3BjaWQiOiIzMjQ1NDc2NDAwODMzNTUxOTQ4IiwibWlkIjoiNTc2NDYyNjEyMjgwMTMwNDgxIiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJwdmYiOiJFZzBJX3B4bEdRQUFBR0EwdV9NXyJ9"
+            "name": "2.63 lb",
+            "available": true,
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjE0NXFaN0NlS3U3bjVOb1BtcmpTOFFvIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTY5MTQ4Nzc2MjUyODA5Nzc4NjUiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIzMjM4MjI0ODQ0NjI0OTEyMTY5IiwiaW1hZ2VEb2NpZCI6IjQ3Njc0OTkxNTkwNjMyNzkxNCIsInJkcyI6IlBDXzMyNDU0NzY0MDA4MzM1NTE5NDh8UFJPRF9QQ18zMjQ1NDc2NDAwODMzNTUxOTQ4IiwicXVlcnkiOiIrQ29mZmVlIiwiZ3BjaWQiOiIzMjQ1NDc2NDAwODMzNTUxOTQ4IiwibWlkIjoiNTc2NDYyNjEyMjgwMTMwNDgxIiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJwdmYiOiJFZzBJX3B4bEdRQUFBSUFHRGZNXyJ9"
           },
           {
-            "name":
-            "3 lb",
-            "available":
-            true,
-            "serpapi_link":
-            "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjE0NXFaN0NlS3U3bjVOb1BtcmpTOFFvIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTY5MTQ4Nzc2MjUyODA5Nzc4NjUiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIzMjM4MjI0ODQ0NjI0OTEyMTY5IiwiaW1hZ2VEb2NpZCI6IjQ3Njc0OTkxNTkwNjMyNzkxNCIsInJkcyI6IlBDXzMyNDU0NzY0MDA4MzM1NTE5NDh8UFJPRF9QQ18zMjQ1NDc2NDAwODMzNTUxOTQ4IiwicXVlcnkiOiIrQ29mZmVlIiwiZ3BjaWQiOiIzMjQ1NDc2NDAwODMzNTUxOTQ4IiwibWlkIjoiNTc2NDYyNjEyMjgwMTMwNDgxIiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJwdmYiOiJFZzBJX3B4bEdRQUFBRUMteGZVXyJ9"
+            "name": "2.72 lb",
+            "available": true,
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjE0NXFaN0NlS3U3bjVOb1BtcmpTOFFvIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTY5MTQ4Nzc2MjUyODA5Nzc4NjUiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIzMjM4MjI0ODQ0NjI0OTEyMTY5IiwiaW1hZ2VEb2NpZCI6IjQ3Njc0OTkxNTkwNjMyNzkxNCIsInJkcyI6IlBDXzMyNDU0NzY0MDA4MzM1NTE5NDh8UFJPRF9QQ18zMjQ1NDc2NDAwODMzNTUxOTQ4IiwicXVlcnkiOiIrQ29mZmVlIiwiZ3BjaWQiOiIzMjQ1NDc2NDAwODMzNTUxOTQ4IiwibWlkIjoiNTc2NDYyNjEyMjgwMTMwNDgxIiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJwdmYiOiJFZzBJX3B4bEdRQUFBR0EwdV9NXyJ9"
           },
           {
-            "name":
-            "3.19 lb",
-            "available":
-            true,
-            "serpapi_link":
-            "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjE0NXFaN0NlS3U3bjVOb1BtcmpTOFFvIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTY5MTQ4Nzc2MjUyODA5Nzc4NjUiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIzMjM4MjI0ODQ0NjI0OTEyMTY5IiwiaW1hZ2VEb2NpZCI6IjQ3Njc0OTkxNTkwNjMyNzkxNCIsInJkcyI6IlBDXzMyNDU0NzY0MDA4MzM1NTE5NDh8UFJPRF9QQ18zMjQ1NDc2NDAwODMzNTUxOTQ4IiwicXVlcnkiOiIrQ29mZmVlIiwiZ3BjaWQiOiIzMjQ1NDc2NDAwODMzNTUxOTQ4IiwibWlkIjoiNTc2NDYyNjEyMjgwMTMwNDgxIiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJwdmYiOiJFZzBJX3B4bEdRQUFBQ0FhSXZjXyJ9"
+            "name": "3 lb",
+            "available": true,
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjE0NXFaN0NlS3U3bjVOb1BtcmpTOFFvIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTY5MTQ4Nzc2MjUyODA5Nzc4NjUiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIzMjM4MjI0ODQ0NjI0OTEyMTY5IiwiaW1hZ2VEb2NpZCI6IjQ3Njc0OTkxNTkwNjMyNzkxNCIsInJkcyI6IlBDXzMyNDU0NzY0MDA4MzM1NTE5NDh8UFJPRF9QQ18zMjQ1NDc2NDAwODMzNTUxOTQ4IiwicXVlcnkiOiIrQ29mZmVlIiwiZ3BjaWQiOiIzMjQ1NDc2NDAwODMzNTUxOTQ4IiwibWlkIjoiNTc2NDYyNjEyMjgwMTMwNDgxIiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJwdmYiOiJFZzBJX3B4bEdRQUFBRUMteGZVXyJ9"
           },
           {
-            "name":
-            "14.09 lb",
-            "available":
-            true,
-            "serpapi_link":
-            "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjE0NXFaN0NlS3U3bjVOb1BtcmpTOFFvIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTY5MTQ4Nzc2MjUyODA5Nzc4NjUiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIzMjM4MjI0ODQ0NjI0OTEyMTY5IiwiaW1hZ2VEb2NpZCI6IjQ3Njc0OTkxNTkwNjMyNzkxNCIsInJkcyI6IlBDXzMyNDU0NzY0MDA4MzM1NTE5NDh8UFJPRF9QQ18zMjQ1NDc2NDAwODMzNTUxOTQ4IiwicXVlcnkiOiIrQ29mZmVlIiwiZ3BjaWQiOiIzMjQ1NDc2NDAwODMzNTUxOTQ4IiwibWlkIjoiNTc2NDYyNjEyMjgwMTMwNDgxIiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJwdmYiOiJFZzBJX3B4bEdRQUFBQ0JjanhsQSJ9"
+            "name": "3.19 lb",
+            "available": true,
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjE0NXFaN0NlS3U3bjVOb1BtcmpTOFFvIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTY5MTQ4Nzc2MjUyODA5Nzc4NjUiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIzMjM4MjI0ODQ0NjI0OTEyMTY5IiwiaW1hZ2VEb2NpZCI6IjQ3Njc0OTkxNTkwNjMyNzkxNCIsInJkcyI6IlBDXzMyNDU0NzY0MDA4MzM1NTE5NDh8UFJPRF9QQ18zMjQ1NDc2NDAwODMzNTUxOTQ4IiwicXVlcnkiOiIrQ29mZmVlIiwiZ3BjaWQiOiIzMjQ1NDc2NDAwODMzNTUxOTQ4IiwibWlkIjoiNTc2NDYyNjEyMjgwMTMwNDgxIiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJwdmYiOiJFZzBJX3B4bEdRQUFBQ0FhSXZjXyJ9"
+          },
+          {
+            "name": "14.09 lb",
+            "available": true,
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IjE0NXFaN0NlS3U3bjVOb1BtcmpTOFFvIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTY5MTQ4Nzc2MjUyODA5Nzc4NjUiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIzMjM4MjI0ODQ0NjI0OTEyMTY5IiwiaW1hZ2VEb2NpZCI6IjQ3Njc0OTkxNTkwNjMyNzkxNCIsInJkcyI6IlBDXzMyNDU0NzY0MDA4MzM1NTE5NDh8UFJPRF9QQ18zMjQ1NDc2NDAwODMzNTUxOTQ4IiwicXVlcnkiOiIrQ29mZmVlIiwiZ3BjaWQiOiIzMjQ1NDc2NDAwODMzNTUxOTQ4IiwibWlkIjoiNTc2NDYyNjEyMjgwMTMwNDgxIiwicHZ0IjoiaGciLCJ1dWxlIjpudWxsLCJwdmYiOiJFZzBJX3B4bEdRQUFBQ0JjanhsQSJ9"
           }
         ]
       }
