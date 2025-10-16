@@ -11,10 +11,10 @@ class SerpApiClientTest extends BaseTest
     public function test_google_immersive_product()
     {
         Http::fake([
-            'https://serpapi.com/search.json?engine=google_immersive_product&pageToken=asdf&api_key=test' => Http::response($this->getFixtureJsonContent('google_immersive_product_response.json'), 200),
+            'https://serpapi.com/search.json?engine=google_immersive_product&pageToken=asdf&api_key=tests' => Http::response($this->getFixtureJsonContent('google_immersive_product_response.json'), 200),
         ]);
 
-        $client = new SerpApiClient(apiKey: 'test');
+        $client = new SerpApiClient(apiKey: 'tests');
 
         $immersiveProductResponse = $client->makeGoogleImmersiveProductRequest('asdf');
 
