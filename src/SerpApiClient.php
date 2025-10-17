@@ -77,7 +77,7 @@ class SerpApiClient
     ): ImmersiveProductResponse|array|string {
         $params = array_filter([
             'engine' => SerpApi::ENGINE_GOOGLE_IMMERSIVE_PRODUCT,
-            'pageToken' => $pageToken,
+            'page_token' => $pageToken,
             'more_stores' => $moreStores,
             'next_page_token' => $nextPageToken,
             'async' => $async,
