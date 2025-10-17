@@ -8,11 +8,11 @@ use Spatie\LaravelData\Data;
 class ImmersiveProductAboutTheProduct extends Data
 {
     public function __construct(
-        public readonly ?string $title = null,
-        public readonly ?string $link = null,
-        public readonly ?string $displayed_link = null,
-        public readonly ?string $icon = null,
-        public readonly ?string $description = null,
+        public readonly ?string $title,
+        public readonly ?string $link,
+        public readonly ?string $displayed_link,
+        public readonly ?string $icon,
+        public readonly ?string $description,
         /* @var null|ImmersiveProductAboutTheProductFeature[] $features */
         #[DataCollectionOf(ImmersiveProductAboutTheProductFeature::class)]
         public readonly array $features,
