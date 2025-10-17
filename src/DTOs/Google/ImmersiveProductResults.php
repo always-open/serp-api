@@ -7,16 +7,17 @@ use Spatie\LaravelData\Data;
 
 class ImmersiveProductResults extends Data
 {
+    //  reviews, rating, stores_next_page_token, ratings
     public function __construct(
         public readonly array $thumbnails,
         public readonly string $title,
         public readonly string $brand,
-        public readonly int $reviews,
-        public readonly int $rating,
         public readonly string $price_range,
-        public readonly string $stores_next_page_token,
         public readonly ImmersiveProductAboutTheProduct $about_the_product,
-        public readonly array $ratings,
+        public readonly ?int $reviews = null,
+        public readonly ?int $rating = null,
+        public readonly ?string $stores_next_page_token = null,
+        public readonly ?array $ratings = null,
         /* @var null|ImmersiveProductStore[] $stores */
         #[DataCollectionOf(ImmersiveProductStore::class)]
         public readonly ?array $stores = null,
