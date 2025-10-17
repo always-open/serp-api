@@ -17,7 +17,7 @@ class SerpApiClientTest extends BaseTest
     public function test_google_immersive_product()
     {
         Http::fake([
-            'https://serpapi.com/search.json?engine=google_immersive_product&pageToken=asdf&api_key=tests' => Http::response($this->getFixtureJsonContent('google_immersive_product_response.json'), 200),
+            'https://serpapi.com/search.json?engine=google_immersive_product&page_token=asdf&api_key=tests' => Http::response($this->getFixtureJsonContent('google_immersive_product_response.json'), 200),
         ]);
 
         $client = new SerpApiClient(apiKey: 'tests');
@@ -36,7 +36,7 @@ class SerpApiClientTest extends BaseTest
     public function test_google_immersive_product_async()
     {
         Http::fake([
-            'https://serpapi.com/search.json?engine=google_immersive_product&pageToken=asdf&api_key=tests' => Http::response($this->getFixtureJsonContent('google_immersive_product_response_async.json'), 200),
+            'https://serpapi.com/search.json?engine=google_immersive_product&page_token=asdf&api_key=tests' => Http::response($this->getFixtureJsonContent('google_immersive_product_response_async.json'), 200),
             'https://serpapi.com/searches/68f12e7fcc56d34e74b53c3e.json?api_key=tests' => Http::response($this->getFixtureJsonContent('google_immersive_product_response.json'), 200),
         ]);
 
