@@ -7,11 +7,11 @@ use Spatie\LaravelData\Data;
 class ImmersiveProductStore extends Data
 {
     public function __construct(
-        public readonly string $name,
-        public readonly string $logo,
-        public readonly string $link,
-        public readonly string $title,
-        public readonly string $price,
+        public readonly ?string $name = null,
+        public readonly ?string $logo = null,
+        public readonly ?string $title = null,
+        public readonly ?string $link = null,
+        public readonly ?string $price = null,
         public readonly ?float $rating = null,
         public readonly ?int $reviews_count = null,
         public readonly ?string $payment_methods = null,
