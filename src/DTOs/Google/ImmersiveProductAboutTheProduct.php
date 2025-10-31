@@ -15,6 +15,6 @@ class ImmersiveProductAboutTheProduct extends Data
         public readonly ?string $description,
         /* @var null|ImmersiveProductAboutTheProductFeature[] $features */
         #[DataCollectionOf(ImmersiveProductAboutTheProductFeature::class)]
-        public readonly array $features,
+        public readonly ?array $features = null,
     ) {}
 }
