@@ -14,7 +14,7 @@ class ImmersiveProductResults extends Data
         public readonly ?ImmersiveProductAboutTheProduct $about_the_product = null,
         public readonly ?array $thumbnails = [],
         public readonly ?int $reviews = null,
-        public readonly ?int $rating = null,
+        public readonly ?float $rating = null,
         public readonly ?string $stores_next_page_token = null,
         public readonly ?array $ratings = null,
         /* @var null|ImmersiveProductStore[] $stores */
@@ -28,4 +28,17 @@ class ImmersiveProductResults extends Data
         public readonly ?array $more_options = null,
         public readonly ?array $variants = null,
     ) {}
+
+    /**
+     * SerpApi can send `title` as a non-string map rather than the product title.
+     * A title that is not a string carries no product name, so it maps to null.
+     */
+    public static function prepareForPipeline(array $properties): array
+    {
+        if (isset($properties['title']) && ! is_string($properties['title'])) {
+            $properties['title'] = null;
+        }
+
+        return $properties;
+    }
 }
